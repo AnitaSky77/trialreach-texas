@@ -10,9 +10,11 @@ The project combines public data from ClinicalTrials.gov, CDC PLACES, and the U.
 
 Which Texas counties have both:
 
-- High Type 2 diabetes burden
+- High diagnosed diabetes prevalence
 - Long distance to the nearest open Type 2 diabetes trial site
 - No open trial site within the county
+
+Throughout this repository, an "open" site means a site whose facility-level status was `RECRUITING` or `NOT_YET_RECRUITING` in ClinicalTrials.gov at the time of data collection. Sites with blank facility-level status were not classified as open.
 
 ## Data sources
 
@@ -41,7 +43,7 @@ Source: https://tigerweb.geo.census.gov/
 3. Identify recruiting and not-yet-recruiting trial sites.
 4. Assign each open site to a Texas county.
 5. Download county diabetes prevalence estimates.
-6. calculate straight-line distance from each county center to the nearest open trial site.
+6. Calculate straight-line distance from each county center to the nearest open trial site.
 7. Rank counties using diabetes prevalence and trial-access distance.
 8. Generate publication-ready figures.
 
@@ -49,7 +51,7 @@ Source: https://tigerweb.geo.census.gov/
 
 - 1,231 Texas-linked Type 2 diabetes studies were identified.
 - 81 studies had at least one open Texas site.
-- 292 open Texas trial-site records were identified.
+- 292 Texas trial-site records were explicitly marked as open under the project definition.
 - 31 counties had at least one open trial site.
 - 222 of the 253 counties in the CDC dataset had no open trial site.
 - 87.7% of analyzed counties lacked an open trial site.
@@ -147,6 +149,7 @@ python create_visualizations.py
 
 ## Limitations
 
+- Facility-level recruitment status was blank for 5,357 of 5,656 collected Texas site records. The analysis counts only sites explicitly marked `RECRUITING` or `NOT_YET_RECRUITING` as open.
 - ClinicalTrials.gov records depend on information submitted by study sponsors.
 - A listed recruiting site might not be actively enrolling at the time of review.
 - Trial locations represent study sites, not participant residences.
