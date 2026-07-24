@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Large raw data file, exceeds GitHub's file-size limit
+data/texas_type_2_diabetes_trials.json
+
+# Early practice files
+hello.py
+download_trial.py
+data/type_2_diabetes_trials.json

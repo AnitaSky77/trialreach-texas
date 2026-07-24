@@ -1,0 +1,49 @@
+{
+  "total_studies": 1231,
+  "active_studies": 136,
+  "confirmed_texas_locations": 1231,
+  "missing_texas_locations": 0,
+  "status_counts": {
+    "COMPLETED": 954,
+    "RECRUITING": 78,
+    "TERMINATED": 107,
+    "ACTIVE_NOT_RECRUITING": 44,
+    "ENROLLING_BY_INVITATION": 4,
+    "UNKNOWN": 13,
+    "NOT_YET_RECRUITING": 10,
+    "SUSPENDED": 3,
+    "WITHDRAWN": 18
+  },
+  "top_texas_cities": {
+    "San Antonio": 765,
+    "Dallas": 642,
+    "Houston": 545,
+    "Austin": 265,
+    "Corpus Christi": 134,
+    "Fort Worth": 110,
+    "Sugar Land": 106,
+    "Arlington": 102,
+    "El Paso": 83,
+    "Midland": 75
+  },
+  "top_sponsors": {
+    "Novo Nordisk A/S": 156,
+    "AstraZeneca": 120,
+    "Eli Lilly and Company": 116,
+    "GlaxoSmithKline": 48,
+    "Boehringer Ingelheim": 45,
+    "Pfizer": 43,
+    "The University of Texas Health Science Center at San Antonio": 40,
+    "Takeda": 39,
+    "Sanofi": 37,
+    "Hoffmann-La Roche": 33
+  },
+  "phase_counts": {
+    "PHASE2": 315,
+    "NA": 134,
+    "PHASE3": 514,
+    "PHASE4": 116,
+    "PHASE1": 136,
+    "EARLY_PHASE1": 4
+  }
+}

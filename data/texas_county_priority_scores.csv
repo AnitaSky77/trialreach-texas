@@ -1,0 +1,254 @@
+priority_rank,county_fips,county_name,total_population,diabetes_crude_prevalence,diabetes_crude_95ci,diabetes_adjusted_prevalence,open_trial_sites,open_unique_studies,open_sites_per_100k,has_open_trial_site,county_latitude,county_longitude,nearest_trial_distance_miles,nearest_trial_nct_id,nearest_trial_facility,nearest_trial_city,nearest_trial_county,prevalence_percentile,distance_percentile,priority_score,priority_group
+1,48377,Presidio,5795,22.2,"(19.4, 24.9)",17.8,0,0,0.0,No,29.9990539,-104.2396893,180.4,NCT05846802,Texas Tech University Health Science Center (TTUHSC),El Paso,El Paso,98.8,99.2,99.0,Highest priority
+2,48243,Jeff Davis,1856,21.2,"(18.3, 24.4)",13.1,0,0,0.0,No,30.7156639,-104.1399643,156.3,NCT05846802,Texas Tech University Health Science Center (TTUHSC),El Paso,El Paso,98.4,97.6,98.0,Highest priority
+3,48109,Culberson,2196,19.3,"(16.7, 21.8)",16.2,0,0,0.0,No,31.4461452,-104.5177506,117.9,NCT05846802,Texas Tech University Health Science Center (TTUHSC),El Paso,El Paso,96.4,93.7,95.1,Highest priority
+4,48389,Reeves,11770,17.6,"(15.3, 20.0)",17.5,0,0,0.0,No,31.3227211,-103.6927327,167.3,NCT05846802,Texas Tech University Health Science Center (TTUHSC),El Paso,El Paso,90.5,98.4,94.5,Highest priority
+5,48101,Cottle,1294,18.8,"(16.3, 21.6)",13.9,0,0,0.0,No,34.0775047,-100.2787638,96.8,NCT06580964,Texas Tech University,Lubbock,Lubbock,95.7,88.9,92.3,Highest priority
+6,48155,Foard,1079,18.2,"(15.8, 20.8)",13.6,0,0,0.0,No,33.9746176,-99.7778364,105.5,NCT06112418,Hendrick Health,Abilene,Taylor,92.5,91.7,92.1,Highest priority
+7,48507,Zavala,9312,22.6,"(20.8, 24.3)",21.4,0,0,0.0,No,28.8662091,-99.7605934,85.6,NCT02969798,The University of Texas Health Science Center at San Antonio,San Antonio,Bexar,99.2,83.8,91.5,Highest priority
+8,48371,Pecos,14623,16.5,"(14.3, 18.6)",16.0,0,0,0.0,No,30.7809067,-102.7234063,199.8,NCT06580964,Texas Tech University,Lubbock,Lubbock,83.4,99.6,91.5,Highest priority
+9,48461,Upton,3109,16.6,"(15.2, 17.9)",14.8,0,0,0.0,No,31.3685454,-102.0430225,153.0,NCT06580964,Texas Tech University,Lubbock,Lubbock,85.4,96.8,91.1,Highest priority
+10,48323,Maverick,57762,17.8,"(15.5, 20.2)",18.1,0,0,0.0,No,28.7421437,-100.3142391,98.5,NCT06112418,Aeres Clinical Research,Laredo,Webb,91.3,89.7,90.5,Highest priority
+11,48405,San Augustine,7833,20.9,"(18.1, 23.7)",15.2,0,0,0.0,No,31.394038,-94.1681708,83.5,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,98.0,82.6,90.3,Highest priority
+12,48105,Crockett,2858,16.5,"(14.3, 18.6)",13.4,0,0,0.0,No,30.7227356,-101.4117391,143.2,NCT07564414,Sante Clinical Research,Kerrville,Kerr,83.4,96.4,89.9,Highest priority
+13,48487,Wilbarger,12522,16.5,"(14.4, 18.8)",14.2,0,0,0.0,No,34.0805472,-99.240912,116.3,NCT06112418,Hendrick Health,Abilene,Taylor,83.4,93.3,88.3,Highest priority
+14,48435,Sutton,3221,17.4,"(15.1, 19.7)",14.0,0,0,0.0,No,30.4983743,-100.5381929,89.0,NCT07564414,Sante Clinical Research,Kerrville,Kerr,88.5,86.6,87.5,Highest priority
+15,48311,McMullen,568,17.8,"(15.5, 20.2)",14.1,0,0,0.0,No,28.3524884,-98.5678414,74.2,NCT02969798,The University of Texas Health Science Center at San Antonio,San Antonio,Bexar,91.3,80.2,85.8,Highest priority
+16,48137,Edwards,1393,19.3,"(16.6, 22.2)",13.7,0,0,0.0,No,29.9824794,-100.3049564,69.8,NCT07564414,Sante Clinical Research,Kerrville,Kerr,96.4,74.7,85.6,High priority
+17,48191,Hall,2818,17.5,"(15.3, 20.0)",13.6,0,0,0.0,No,34.5306905,-100.6811302,80.8,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,89.3,81.8,85.6,Highest priority
+18,48269,King,217,16.8,"(14.3, 19.5)",12.2,0,0,0.0,No,33.6163875,-100.2558475,86.2,NCT06112418,Hendrick Health,Abilene,Taylor,86.6,84.6,85.6,Highest priority
+19,48127,Dimmit,8257,23.4,"(20.7, 26.2)",21.5,0,0,0.0,No,28.4225437,-99.7567248,65.1,NCT06112418,Aeres Clinical Research,Laredo,Webb,100.0,70.8,85.4,High priority
+20,48403,Sabine,10106,16.6,"(14.0, 19.1)",11.1,0,0,0.0,No,31.3431016,-93.8517727,88.1,NCT06112418,Gadolin Research,Beaumont,Jefferson,85.4,85.4,85.4,Highest priority
+21,48327,Menard,1958,17.6,"(15.2, 20.2)",12.1,0,0,0.0,No,30.8897821,-99.820584,70.9,NCT07564414,Sante Clinical Research,Kerrville,Kerr,90.5,76.3,83.4,Highest priority
+22,48465,Val Verde,47720,15.6,"(13.5, 17.8)",15.7,0,0,0.0,No,29.8926676,-101.1511688,120.8,NCT07564414,Sante Clinical Research,Kerrville,Kerr,72.3,94.5,83.4,High priority
+23,48131,Duval,9604,18.8,"(16.6, 21.3)",17.0,0,0,0.0,No,27.6810031,-98.5088439,62.3,NCT06112418,Aeres Clinical Research,Laredo,Webb,95.7,68.8,82.2,High priority
+24,48247,Jim Hogg,4720,22.8,"(20.9, 24.9)",20.2,0,0,0.0,No,27.043261,-98.697286,59.2,NCT06112418,Aeres Clinical Research,Laredo,Webb,99.6,64.0,81.8,High priority
+25,48271,Kinney,3148,15.8,"(13.7, 18.1)",13.2,0,0,0.0,No,29.3500984,-100.417973,90.6,NCT07564414,Sante Clinical Research,Kerrville,Kerr,75.1,87.4,81.2,Highest priority
+26,48443,Terrell,687,15.0,"(12.9, 17.2)",10.4,0,0,0.0,No,30.2246104,-102.0766568,175.9,NCT07564414,Sante Clinical Research,Kerrville,Kerr,61.7,98.8,80.2,High priority
+27,48225,Houston,22066,16.8,"(14.6, 19.2)",13.5,0,0,0.0,No,31.3176239,-95.4228905,69.5,NCT06028503,Sam Houston State University College of Osteopathic Medicine,Conroe,Montgomery,86.6,73.5,80.0,High priority
+28,48103,Crane,4574,15.0,"(13.0, 17.1)",14.5,0,0,0.0,No,31.4283669,-102.5154426,153.4,NCT06580964,Texas Tech University,Lubbock,Lubbock,61.7,97.2,79.4,High priority
+29,48197,Hardeman,3490,15.2,"(13.2, 17.2)",11.9,0,0,0.0,No,34.2902354,-99.7455237,127.2,NCT06112418,Hendrick Health,Abilene,Taylor,62.5,95.3,78.9,High priority
+30,48087,Collingsworth,2563,15.5,"(14.0, 17.2)",12.7,0,0,0.0,No,34.9647956,-100.270066,90.0,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,70.0,87.0,78.5,High priority
+31,48079,Cochran,2509,18.6,"(16.4, 21.1)",17.1,0,0,0.0,No,33.6040305,-102.8284308,56.0,NCT06580964,Texas Tech University,Lubbock,Lubbock,94.5,60.1,77.3,High priority
+32,48125,Dickens,1711,16.7,"(14.4, 19.1)",12.2,0,0,0.0,No,33.6165243,-100.7788609,62.0,NCT06580964,Texas Tech University,Lubbock,Lubbock,85.8,68.4,77.1,High priority
+33,48045,Briscoe,1445,17.5,"(15.3, 20.2)",13.3,0,0,0.0,No,34.5301735,-101.2085945,59.4,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,89.3,64.4,76.9,High priority
+34,48275,Knox,3302,15.6,"(14.2, 17.1)",12.5,0,0,0.0,No,33.6060545,-99.74139,80.0,NCT06112418,Hendrick Health,Abilene,Taylor,72.3,81.4,76.9,High priority
+35,48261,Kenedy,343,18.5,"(16.1, 21.0)",14.9,0,0,0.0,No,26.9278373,-97.6364452,54.1,NCT07064473,South Texas Research Institute-Edinburg-67012,Edinburg,Hidalgo,93.7,58.9,76.3,High priority
+36,48047,Brooks,6848,19.8,"(18.1, 21.5)",18.2,0,0,0.0,No,27.0314689,-98.21868,50.5,NCT07064473,South Texas Research Institute-Edinburg-67012,Edinburg,Hidalgo,96.8,55.3,76.1,High priority
+37,48351,Newton,12039,18.6,"(16.2, 21.0)",14.1,0,0,0.0,No,30.7856606,-93.7449422,52.8,NCT06112418,Gadolin Research,Beaumont,Jefferson,94.5,57.3,75.9,High priority
+38,48295,Lipscomb,2906,14.8,"(12.7, 17.1)",12.1,0,0,0.0,No,36.2776155,-100.2731154,113.8,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,57.3,92.9,75.1,High priority
+39,48123,DeWitt,19929,16.0,"(13.9, 18.3)",13.1,0,0,0.0,No,29.0820618,-97.3569497,65.6,NCT06112418,"Privia Medical Group Gulf Coast, PLLC ( Javara Inc.)",San Marcos,Hays,77.1,71.9,74.5,Moderate priority
+40,48419,Shelby,24179,16.4,"(14.3, 18.6)",13.7,0,0,0.0,No,31.7924137,-94.1448795,60.1,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,81.8,66.0,73.9,Moderate priority
+41,48413,Schleicher,2391,14.8,"(13.4, 16.2)",11.9,0,0,0.0,No,30.8975609,-100.5385533,101.9,NCT07564414,Sante Clinical Research,Kerrville,Kerr,57.3,90.5,73.9,Moderate priority
+42,48475,Ward,10966,14.4,"(12.5, 16.4)",13.5,0,0,0.0,No,31.5095632,-103.1023092,160.3,NCT06580964,Texas Tech University,Lubbock,Lubbock,49.0,98.0,73.5,Moderate priority
+43,48383,Reagan,3141,14.5,"(13.1, 15.8)",13.7,0,0,0.0,No,31.365993,-101.5230121,128.9,NCT06112418,Hendrick Health,Abilene,Taylor,50.6,95.7,73.1,Moderate priority
+44,48023,Baylor,3463,14.9,"(12.6, 17.2)",11.6,0,0,0.0,No,33.616402,-99.2135138,86.1,NCT06112418,Hendrick Health,Abilene,Taylor,60.1,84.2,72.1,Moderate priority
+45,48307,McCulloch,7452,15.5,"(13.5, 17.8)",11.9,0,0,0.0,No,31.1987276,-99.3474773,69.6,NCT07296484,Radiance Clinical Research,Lampasas,Lampasas,70.0,73.9,71.9,Moderate priority
+46,48081,Coke,3352,15.9,"(13.7, 18.3)",11.8,0,0,0.0,No,31.8885101,-100.5299077,60.6,NCT06112418,Hendrick Health,Abilene,Taylor,76.3,67.2,71.7,Moderate priority
+47,48321,Matagorda,36359,16.4,"(14.3, 18.6)",13.9,0,0,0.0,No,28.7854986,-96.0042314,57.0,NCT07215559,Aavon Clinical Trials,Richmond,Fort Bend,81.8,61.3,71.5,Moderate priority
+48,48455,Trinity,14228,16.4,"(14.2, 18.7)",11.8,0,0,0.0,No,31.0887494,-95.1357275,57.0,NCT06028503,Sam Houston State University College of Osteopathic Medicine,Conroe,Montgomery,81.8,61.3,71.5,Moderate priority
+49,48005,Angelina,87319,14.9,"(13.0, 16.8)",13.0,0,0,0.0,No,31.2547805,-94.6115821,82.2,NCT06028503,Sam Houston State University College of Osteopathic Medicine,Conroe,Montgomery,60.1,82.2,71.1,Moderate priority
+50,48483,Wheeler,4804,14.7,"(13.4, 16.1)",11.8,0,0,0.0,No,35.4011867,-100.2696463,88.9,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,56.1,86.2,71.1,Moderate priority
+51,48297,Live Oak,11584,16.2,"(14.2, 18.7)",14.2,0,0,0.0,No,28.3511164,-98.1246989,58.5,NCT06810726,WoundCentrics Wound Care & Hyperbarics -Corpus Christi - Shoreline,Corpus Christi,Nueces,79.1,62.1,70.6,Moderate priority
+52,48463,Uvalde,24960,15.7,"(13.7, 17.8)",14.6,0,0,0.0,No,29.3572603,-99.7622112,60.6,NCT07564414,Sante Clinical Research,Kerrville,Kerr,73.9,67.2,70.6,Moderate priority
+53,48017,Bailey,6672,15.5,"(14.2, 16.9)",14.3,0,0,0.0,No,34.0683609,-102.8299151,65.4,NCT06580964,Texas Tech University,Lubbock,Lubbock,70.0,71.1,70.6,Moderate priority
+54,48505,Zapata,13736,20.8,"(18.2, 23.4)",20.1,0,0,0.0,No,27.0005706,-99.1685002,40.7,NCT06112418,Aeres Clinical Research,Laredo,Webb,97.6,43.1,70.4,Moderate priority
+55,48495,Winkler,7414,14.1,"(12.3, 16.2)",13.3,0,0,0.0,No,31.8499901,-103.0482297,138.1,NCT06580964,Texas Tech University,Lubbock,Lubbock,44.7,96.0,70.4,Moderate priority
+56,48289,Leon,16538,15.3,"(13.2, 17.5)",11.4,0,0,0.0,No,31.2964125,-95.9958804,70.1,NCT07064473,"Velocity Clinical Research, Waco",Waco,McLennan,64.8,75.5,70.2,Moderate priority
+57,48283,La Salle,6537,15.5,"(13.4, 17.4)",16.6,0,0,0.0,No,28.3449024,-99.0996759,63.1,NCT06112418,Aeres Clinical Research,Laredo,Webb,70.0,70.0,70.0,Moderate priority
+58,48369,Parmer,9617,15.0,"(12.9, 16.9)",13.5,0,0,0.0,No,34.5300207,-102.7845398,72.1,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,61.7,78.3,70.0,Moderate priority
+59,48111,Dallam,7237,14.7,"(12.8, 16.6)",14.6,0,0,0.0,No,36.2779506,-102.6021854,84.8,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,56.1,83.4,69.8,Moderate priority
+60,48385,Real,2854,18.3,"(15.8, 20.8)",12.6,0,0,0.0,No,29.8316387,-99.8221471,43.5,NCT07564414,Sante Clinical Research,Kerrville,Kerr,93.3,45.5,69.4,Moderate priority
+61,48433,Stonewall,1218,15.8,"(14.4, 17.3)",11.5,0,0,0.0,No,33.1790412,-100.2533038,58.8,NCT06112418,Hendrick Health,Abilene,Taylor,75.1,63.2,69.2,Moderate priority
+62,48153,Floyd,5090,17.0,"(15.6, 18.5)",14.4,0,0,0.0,No,34.0722966,-101.3032353,46.6,NCT06580964,Texas Tech University,Lubbock,Lubbock,87.4,50.6,69.0,Moderate priority
+63,48437,Swisher,6955,16.6,"(14.4, 18.8)",15.5,0,0,0.0,No,34.530295,-101.7350259,48.1,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,85.4,52.6,69.0,Moderate priority
+64,48267,Kimble,4442,16.6,"(14.2, 19.0)",11.7,0,0,0.0,No,30.4868159,-99.7485974,47.3,NCT07564414,Sante Clinical Research,Kerrville,Kerr,85.4,51.8,68.6,Moderate priority
+65,48249,Jim Wells,38662,18.0,"(15.5, 20.5)",16.2,0,0,0.0,No,27.7309179,-98.0900524,42.7,NCT06810726,WoundCentrics Wound Care & Hyperbarics -Corpus Christi - Shoreline,Corpus Christi,Nueces,91.7,45.1,68.4,Moderate priority
+66,48175,Goliad,7144,15.6,"(13.5, 17.8)",11.6,0,0,0.0,No,28.6570383,-97.4265102,59.2,NCT06810726,WoundCentrics Wound Care & Hyperbarics -Corpus Christi - Shoreline,Corpus Christi,Nueces,72.3,64.0,68.2,Moderate priority
+67,48117,Deaf Smith,18347,16.4,"(14.3, 18.8)",16.0,0,0,0.0,No,34.9660914,-102.6049268,47.2,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,81.8,51.4,66.6,Moderate priority
+68,48427,Starr,65934,20.0,"(17.6, 22.6)",20.5,0,0,0.0,No,26.5621294,-98.7384538,35.0,NCT07296484,"Texas Valley Clinical Research - Mission, TX",Mission,Hidalgo,97.2,35.6,66.4,Moderate priority
+69,48357,Ochiltree,9704,14.1,"(12.9, 15.4)",13.5,0,0,0.0,No,36.2783114,-100.8156536,92.6,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,44.7,88.1,66.4,Moderate priority
+70,48279,Lamb,12711,16.6,"(14.4, 18.7)",14.3,0,0,0.0,No,34.0684889,-102.3517082,44.3,NCT06580964,Texas Tech University,Lubbock,Lubbock,85.4,47.0,66.2,Moderate priority
+71,48345,Motley,1020,14.7,"(13.2, 16.2)",10.5,0,0,0.0,No,34.0739682,-100.7798314,70.6,NCT06580964,Texas Tech University,Lubbock,Lubbock,56.1,75.9,66.0,Moderate priority
+72,48391,Refugio,6666,17.6,"(15.5, 19.9)",14.0,0,0,0.0,No,28.3215627,-97.1596971,38.8,NCT06810726,WoundCentrics Wound Care & Hyperbarics -Corpus Christi - Shoreline,Corpus Christi,Nueces,90.5,41.1,65.8,Moderate priority
+73,48447,Throckmorton,1526,15.4,"(13.8, 17.0)",11.0,0,0,0.0,No,33.1773997,-99.2123671,58.7,NCT06112418,Hendrick Health,Abilene,Taylor,68.0,62.5,65.2,Moderate priority
+74,48469,Victoria,91664,14.5,"(12.6, 16.5)",12.9,0,0,0.0,No,28.7962401,-96.9715192,73.5,NCT06810726,WoundCentrics Wound Care & Hyperbarics -Corpus Christi - Shoreline,Corpus Christi,Nueces,50.6,79.8,65.2,Moderate priority
+75,48489,Willacy,20037,18.8,"(16.3, 21.3)",19.0,0,0,0.0,No,26.4770723,-97.5916647,33.1,NCT06897475,Texas Valley Clinical Research,Weslaco,Hidalgo,95.7,33.6,64.6,Moderate priority
+76,48241,Jasper,32694,16.3,"(14.1, 18.7)",12.9,0,0,0.0,No,30.7433371,-94.0249347,45.6,NCT06112418,Gadolin Research,Beaumont,Jefferson,79.4,49.0,64.2,Moderate priority
+77,48069,Castro,7227,15.5,"(12.9, 18.2)",13.7,0,0,0.0,No,34.5298696,-102.2616709,53.7,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,70.0,58.5,64.2,Moderate priority
+78,48239,Jackson,15221,14.7,"(12.7, 16.6)",12.1,0,0,0.0,No,28.9541412,-96.5775003,65.6,NCT07215559,Aavon Clinical Trials,Richmond,Fort Bend,56.1,71.9,64.0,Moderate priority
+79,48285,Lavaca,20571,14.6,"(12.7, 16.8)",11.1,0,0,0.0,No,29.3842759,-96.9300707,69.8,NCT06112418,"Privia Medical Group Gulf Coast, PLLC ( Javara Inc.)",San Marcos,Hays,52.2,74.7,63.4,Moderate priority
+80,48095,Concho,3297,14.2,"(12.9, 15.6)",12.7,0,0,0.0,No,31.3263782,-99.8639354,77.9,NCT06112418,Hendrick Health,Abilene,Taylor,45.8,81.0,63.4,Moderate priority
+81,48115,Dawson,12004,15.3,"(13.3, 17.5)",15.3,0,0,0.0,No,32.742441,-101.9476834,58.0,NCT06580964,Texas Tech University,Lubbock,Lubbock,64.8,61.7,63.2,Moderate priority
+82,48057,Calhoun,19696,14.7,"(12.8, 16.7)",12.2,0,0,0.0,No,28.4389341,-96.615179,64.9,NCT06810726,WoundCentrics Wound Care & Hyperbarics -Corpus Christi - Shoreline,Corpus Christi,Nueces,56.1,70.4,63.2,Moderate priority
+83,48353,Nolan,14306,16.5,"(14.3, 18.9)",14.0,0,0,0.0,No,32.3034029,-100.4060537,40.5,NCT06112418,Hendrick Health,Abilene,Taylor,83.4,42.7,63.0,Moderate priority
+84,48235,Irion,1549,13.4,"(11.9, 15.0)",10.3,0,0,0.0,No,31.3038645,-100.9824216,107.8,NCT06112418,Hendrick Health,Abilene,Taylor,32.0,92.1,62.1,Moderate priority
+85,48445,Terry,11547,16.4,"(14.3, 18.5)",15.1,0,0,0.0,No,33.1737316,-102.3351975,39.3,NCT06580964,Texas Tech University,Lubbock,Lubbock,81.8,41.9,61.9,Moderate priority
+86,48067,Cass,28659,15.7,"(13.6, 18.0)",12.0,0,0,0.0,No,33.0775152,-94.3436219,46.0,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,73.9,49.8,61.9,Moderate priority
+87,48163,Frio,17987,15.3,"(13.4, 17.3)",16.5,0,0,0.0,No,28.8677769,-99.1082662,53.4,NCT02969798,The University of Texas Health Science Center at San Antonio,San Antonio,Bexar,64.8,58.1,61.5,Moderate priority
+88,48227,Howard,30554,13.7,"(11.9, 15.7)",13.1,0,0,0.0,No,32.306085,-101.4355114,91.2,NCT06580964,Texas Tech University,Lubbock,Lubbock,35.2,87.7,61.5,Moderate priority
+89,48449,Titus,31357,15.6,"(13.5, 17.7)",14.0,0,0,0.0,No,33.2165246,-94.9656567,45.8,NCT07662109,Research Site,Paris,Lamar,72.3,49.4,60.9,Moderate priority
+90,48373,Polk,54186,15.4,"(13.4, 17.9)",12.5,0,0,0.0,No,30.7925352,-94.8299647,49.9,NCT06028503,Sam Houston State University College of Osteopathic Medicine,Conroe,Montgomery,68.0,53.8,60.9,Moderate priority
+91,48315,Marion,9571,18.1,"(15.9, 20.5)",12.8,0,0,0.0,No,32.7980833,-94.3571974,30.3,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,92.1,29.2,60.7,Moderate priority
+92,48083,Coleman,7842,15.4,"(13.3, 17.6)",11.3,0,0,0.0,No,31.7729545,-99.4536074,49.5,NCT06112418,Hendrick Health,Abilene,Taylor,68.0,53.4,60.7,Moderate priority
+93,48107,Crosby,4917,17.1,"(15.0, 19.4)",14.6,0,0,0.0,No,33.6145373,-101.2999572,32.1,NCT06580964,Texas Tech University,Lubbock,Lubbock,87.7,33.2,60.5,Moderate priority
+94,48395,Robertson,17267,15.4,"(13.4, 17.5)",12.3,0,0,0.0,No,31.026874,-96.5129529,49.4,NCT06906627,Baylor Scott & White,Temple,Bell,68.0,53.0,60.5,Moderate priority
+95,48161,Freestone,20441,14.7,"(12.7, 17.0)",11.9,0,0,0.0,No,31.7048148,-96.1490536,59.7,NCT07064473,"Velocity Clinical Research, Waco",Waco,McLennan,56.1,64.8,60.5,Moderate priority
+96,48043,Brewster,9513,12.8,"(11.0, 14.9)",10.5,0,0,0.0,No,29.8108828,-103.2516868,234.5,NCT05846802,Texas Tech University Health Science Center (TTUHSC),El Paso,El Paso,20.9,100.0,60.5,Moderate priority
+97,48343,Morris,12066,15.9,"(13.8, 18.0)",12.5,0,0,0.0,No,33.113335,-94.7326275,42.3,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,76.3,44.3,60.3,Moderate priority
+98,48229,Hudspeth,3451,14.3,"(13.1, 15.5)",17.4,0,0,0.0,No,31.455311,-105.3857766,68.1,NCT05846802,Texas Tech University Health Science Center (TTUHSC),El Paso,El Paso,47.0,73.1,60.1,Moderate priority
+99,48177,Gonzales,19930,16.0,"(14.1, 18.3)",13.7,0,0,0.0,No,29.4566212,-97.4927541,39.9,NCT06112418,"Privia Medical Group Gulf Coast, PLLC ( Javara Inc.)",San Marcos,Hays,77.1,42.3,59.7,Moderate priority
+100,48457,Tyler,20382,15.3,"(13.2, 17.6)",12.7,0,0,0.0,No,30.7710932,-94.3764471,50.1,NCT06112418,Gadolin Research,Beaumont,Jefferson,64.8,54.2,59.5,Moderate priority
+101,48001,Anderson,57736,13.9,"(11.9, 15.8)",13.0,0,0,0.0,No,31.8132355,-95.65237,71.4,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,39.9,77.1,58.5,Moderate priority
+102,48135,Ector,164494,12.8,"(11.1, 14.7)",13.6,0,0,0.0,No,31.8690912,-102.5427493,124.6,NCT06580964,Texas Tech University,Lubbock,Lubbock,20.9,94.9,57.9,Moderate priority
+103,48287,Lee,18240,15.4,"(13.3, 17.7)",12.4,0,0,0.0,No,30.3106142,-96.9656155,44.6,NCT06267391,"Texas Diabetes & Endocrinology, P.A.",Round Rock,Williamson,68.0,47.4,57.7,Moderate priority
+104,48063,Camp,13000,16.1,"(14.1, 18.0)",13.7,0,0,0.0,No,32.9732416,-94.9784572,35.5,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,78.7,36.4,57.5,Moderate priority
+105,48207,Haskell,5385,14.9,"(12.8, 17.0)",12.3,0,0,0.0,No,33.1781414,-99.7302978,50.4,NCT06112418,Hendrick Health,Abilene,Taylor,60.1,54.9,57.5,Moderate priority
+106,48195,Hansford,5071,13.6,"(11.7, 15.6)",12.3,0,0,0.0,No,36.2773499,-101.3545392,77.7,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,34.4,80.6,57.5,Moderate priority
+107,48299,Llano,22875,15.7,"(13.4, 18.1)",10.1,0,0,0.0,No,30.7056914,-98.6840712,38.7,NCT07296484,Radiance Clinical Research,Lampasas,Lampasas,73.9,40.3,57.1,Moderate priority
+108,48387,Red River,11678,16.9,"(14.7, 19.3)",12.5,0,0,0.0,No,33.6205414,-95.0502272,29.2,NCT07662109,Research Site,Paris,Lamar,87.0,26.5,56.7,Moderate priority
+109,48293,Limestone,22250,16.1,"(14.0, 18.4)",13.1,0,0,0.0,No,31.5453356,-96.5803599,33.3,NCT07064473,"Velocity Clinical Research, Waco",Waco,McLennan,78.7,34.0,56.3,Moderate priority
+110,48073,Cherokee,52217,14.7,"(12.6, 16.8)",12.6,0,0,0.0,No,31.8366722,-95.1649589,52.2,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,56.1,56.5,56.3,Moderate priority
+111,48415,Scurry,16212,13.6,"(11.8, 15.5)",12.4,0,0,0.0,No,32.7462279,-100.9164059,71.9,NCT06112418,Hendrick Health,Abilene,Taylor,34.4,77.9,56.1,Moderate priority
+112,48349,Navarro,55635,15.3,"(13.4, 17.6)",13.5,0,0,0.0,No,32.0469348,-96.4726004,43.7,NCT06267391,Epic Medical Research,DeSoto,Dallas,64.8,46.2,55.5,Moderate priority
+113,48003,Andrews,18664,12.7,"(10.9, 14.6)",12.9,0,0,0.0,No,32.305106,-102.6378152,99.0,NCT06580964,Texas Tech University,Lubbock,Lubbock,19.8,90.1,54.9,Moderate priority
+114,48037,Bowie,91687,13.8,"(11.9, 15.8)",12.1,0,0,0.0,No,33.4458022,-94.4232272,66.9,NCT07662109,Research Site,Paris,Lamar,37.2,72.3,54.7,Moderate priority
+115,48503,Young,18124,13.4,"(11.4, 15.5)",10.8,0,0,0.0,No,33.1766098,-98.6877651,71.8,NCT06112418,Privia Medical Group- North Texas,Stephenville,Erath,32.0,77.5,54.7,Moderate priority
+116,48129,Donley,3214,14.0,"(12.1, 16.1)",10.9,0,0,0.0,No,34.9653333,-100.8139945,60.2,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,42.3,66.4,54.3,Moderate priority
+117,48009,Archer,9029,12.7,"(11.5, 14.0)",9.9,0,0,0.0,No,33.6152077,-98.6876743,93.8,NCT07228117,Revival Research Institute,Denton,Denton,19.8,88.5,54.2,Moderate priority
+118,48007,Aransas,25374,15.9,"(13.8, 18.5)",11.4,0,0,0.0,No,28.0846235,-96.9915161,31.6,NCT06810726,WoundCentrics Wound Care & Hyperbarics -Corpus Christi - Shoreline,Corpus Christi,Nueces,76.3,31.2,53.8,Moderate priority
+119,48051,Burleson,19475,14.0,"(11.9, 16.2)",11.0,0,0,0.0,No,30.4924775,-96.6213996,59.9,NCT06906627,Baylor Scott & White,Temple,Bell,42.3,65.2,53.8,Moderate priority
+120,48077,Clay,10738,13.2,"(11.2, 15.2)",9.8,0,0,0.0,No,33.785201,-98.208449,73.4,NCT07228117,Revival Research Institute,Denton,Denton,28.1,79.4,53.8,Moderate priority
+121,48061,Cameron,426710,18.3,"(16.3, 20.6)",17.5,3,2,0.703,Yes,26.1508778,-97.4520381,17.4,NCT07064473,South Texas Research Institute - Brownsville,Brownsville,Cameron,93.3,13.4,53.4,Lower priority
+122,48189,Hale,31761,15.6,"(13.6, 17.7)",15.0,0,0,0.0,No,34.0703796,-101.8268812,34.1,NCT06580964,Texas Tech University,Lubbock,Lubbock,72.3,34.4,53.4,Moderate priority
+123,48213,Henderson,86158,14.5,"(12.6, 16.7)",11.3,0,0,0.0,No,32.212019,-95.8535323,51.7,NCT07064473,Care United Research,Forney,Kaufman,50.6,56.1,53.4,Moderate priority
+124,48089,Colorado,21117,14.9,"(12.8, 16.9)",11.6,0,0,0.0,No,29.6207026,-96.5262493,43.6,NCT05390892,Premier Internal Medicine Associates of Houston,Katy,Fort Bend,60.1,45.8,53.0,Moderate priority
+125,48451,Tom Green,119057,12.9,"(11.2, 14.8)",11.9,0,0,0.0,No,31.4042638,-100.4618433,83.9,NCT06112418,Hendrick Health,Abilene,Taylor,22.5,83.0,52.8,Moderate priority
+126,48485,Wichita,130180,12.1,"(10.4, 14.0)",11.6,0,0,0.0,No,33.9879956,-98.7035022,105.0,NCT07228117,Revival Research Institute,Denton,Denton,14.2,91.3,52.8,Moderate priority
+127,48013,Atascosa,51784,15.4,"(13.4, 17.5)",14.0,0,0,0.0,No,28.8934294,-98.5269873,36.7,NCT02969798,The University of Texas Health Science Center at San Antonio,San Antonio,Bexar,68.0,37.2,52.6,Moderate priority
+128,48341,Moore,21190,14.9,"(13.8, 16.2)",14.7,0,0,0.0,No,35.8375941,-101.8929226,42.7,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,60.1,45.1,52.6,Moderate priority
+129,48169,Garza,4517,14.9,"(13.6, 16.1)",14.5,0,0,0.0,No,33.1797921,-101.298429,42.3,NCT06580964,Texas Tech University,Lubbock,Lubbock,60.1,44.3,52.2,Moderate priority
+130,48335,Mitchell,9075,13.3,"(11.5, 15.1)",13.5,0,0,0.0,No,32.3061262,-100.9212322,70.0,NCT06112418,Hendrick Health,Abilene,Taylor,29.2,75.1,52.2,Moderate priority
+131,48075,Childress,6788,12.0,"(10.4, 13.7)",12.0,0,0,0.0,No,34.5290765,-100.2075736,103.7,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,13.4,90.9,52.2,Moderate priority
+132,48399,Runnels,9868,14.7,"(12.7, 16.8)",11.8,0,0,0.0,No,31.8309608,-99.9762318,45.0,NCT06112418,Hendrick Health,Abilene,Taylor,56.1,47.8,52.0,Moderate priority
+133,48407,San Jacinto,28936,16.4,"(14.3, 18.6)",12.7,0,0,0.0,No,30.5794184,-95.1667871,25.3,NCT06028503,Sam Houston State University College of Osteopathic Medicine,Conroe,Montgomery,81.8,21.7,51.8,Moderate priority
+134,48179,Gray,20916,13.9,"(11.8, 15.9)",12.4,0,0,0.0,No,35.4010745,-100.812558,58.8,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,39.9,63.2,51.6,Moderate priority
+135,48501,Yoakum,7468,13.5,"(11.7, 15.6)",13.0,0,0,0.0,No,33.1728767,-102.8277995,62.7,NCT06580964,Texas Tech University,Lubbock,Lubbock,33.2,69.6,51.4,Moderate priority
+136,48049,Brown,38709,14.0,"(12.3, 15.7)",11.4,0,0,0.0,No,31.7740563,-98.9997903,56.0,NCT06112418,Privia Medical Group- North Texas,Stephenville,Erath,42.3,60.1,51.2,Moderate priority
+137,48421,Sherman,2678,12.9,"(11.7, 14.0)",11.2,0,0,0.0,No,36.2775624,-101.8934663,73.0,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,22.5,78.7,50.6,Moderate priority
+138,48319,Mason,3931,14.4,"(12.8, 16.0)",9.9,0,0,0.0,No,30.717641,-99.2261174,46.6,NCT07564414,Sante Clinical Research,Kerrville,Kerr,49.0,50.6,49.8,Lower priority
+139,48317,Martin,5216,12.1,"(11.1, 13.1)",11.5,0,0,0.0,No,32.305948,-101.9512207,88.1,NCT06580964,Texas Tech University,Lubbock,Lubbock,14.2,85.4,49.8,Lower priority
+140,48329,Midland,177108,10.8,"( 9.3, 12.3)",11.4,0,0,0.0,No,31.8690789,-102.0316093,118.5,NCT06580964,Texas Tech University,Lubbock,Lubbock,5.5,94.1,49.8,Lower priority
+141,48255,Karnes,15018,14.0,"(12.1, 15.9)",14.4,0,0,0.0,No,28.9056521,-97.8594649,52.4,NCT02969798,The University of Texas Health Science Center at San Antonio,San Antonio,Bexar,42.3,56.9,49.6,Lower priority
+142,48211,Hemphill,3189,11.6,"(10.0, 13.5)",9.7,0,0,0.0,No,35.8374761,-100.270473,97.5,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,9.9,89.3,49.6,Lower priority
+143,48145,Falls,17286,16.1,"(14.1, 18.4)",13.8,0,0,0.0,No,31.2532255,-96.9359425,23.9,NCT07064473,"Velocity Clinical Research, Waco",Waco,McLennan,78.7,20.2,49.4,Lower priority
+144,48173,Glasscock,1141,10.9,"( 9.6, 12.1)",9.9,0,0,0.0,No,31.8693808,-101.520803,112.0,NCT06112418,Hendrick Health,Abilene,Taylor,5.9,92.5,49.2,Lower priority
+145,48237,Jack,8875,13.4,"(11.5, 15.4)",11.8,0,0,0.0,No,33.2333492,-98.1724507,60.1,NCT07228117,Revival Research Institute,Denton,Denton,32.0,66.0,49.0,Lower priority
+146,48149,Fayette,25474,13.8,"(11.8, 16.0)",10.1,0,0,0.0,No,29.8767312,-96.9199732,56.1,NCT05267626,Texas Oncology (Balcones) - SCRI,Austin,Travis,37.2,60.5,48.8,Lower priority
+147,48151,Fisher,3612,14.5,"(12.6, 16.5)",10.8,0,0,0.0,No,32.7427333,-100.4021685,43.9,NCT06112418,Hendrick Health,Abilene,Taylor,50.6,46.6,48.6,Lower priority
+148,48033,Borden,572,13.2,"(11.9, 14.8)",9.3,0,0,0.0,No,32.7436084,-101.4317487,62.6,NCT06580964,Texas Tech University,Lubbock,Lubbock,28.1,69.2,48.6,Lower priority
+149,48481,Wharton,41739,15.0,"(13.2, 17.3)",12.9,0,0,0.0,No,29.2777605,-96.2222023,34.8,NCT07215559,Aavon Clinical Trials,Richmond,Fort Bend,61.7,35.2,48.4,Lower priority
+150,48347,Nacogdoches,65375,13.2,"(11.3, 15.1)",13.0,0,0,0.0,No,31.6158766,-94.6156265,61.6,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,28.1,68.0,48.0,Lower priority
+151,48499,Wood,47921,14.6,"(12.5, 16.9)",10.6,0,0,0.0,No,32.786361,-95.3819963,42.2,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,52.2,43.5,47.8,Lower priority
+152,48263,Kent,734,12.9,"(11.0, 15.0)",9.3,0,0,0.0,No,33.1813317,-100.7775686,67.9,NCT06580964,Texas Tech University,Lubbock,Lubbock,22.5,72.7,47.6,Lower priority
+153,48215,Hidalgo,898471,17.4,"(15.3, 19.6)",17.7,13,10,1.447,Yes,26.3965242,-98.1810538,6.6,NCT07064473,South Texas Research Institute-Edinburg-67012,Edinburg,Hidalgo,88.5,6.3,47.4,Lower priority
+154,48479,Webb,269148,16.1,"(13.9, 18.5)",16.8,2,2,0.743,Yes,27.7608783,-99.3308239,20.6,NCT06112418,Aeres Clinical Research,Laredo,Webb,78.7,16.2,47.4,Lower priority
+155,48429,Stephens,9343,13.8,"(11.9, 15.8)",11.8,0,0,0.0,No,32.7357774,-98.8361728,51.3,NCT06112418,Privia Medical Group- North Texas,Stephenville,Erath,37.2,55.7,46.4,Lower priority
+156,48025,Bee,30850,13.9,"(12.1, 15.8)",14.6,0,0,0.0,No,28.4172914,-97.7409485,47.5,NCT06810726,WoundCentrics Wound Care & Hyperbarics -Corpus Christi - Shoreline,Corpus Christi,Nueces,39.9,52.2,46.0,Lower priority
+157,48019,Bandera,22637,15.7,"(13.6, 18.0)",10.8,0,0,0.0,No,29.7473184,-99.2461378,21.7,NCT07564414,Sante Clinical Research,Kerrville,Kerr,73.9,17.8,45.8,Lower priority
+158,48165,Gaines,22523,11.8,"(10.2, 13.5)",12.3,0,0,0.0,No,32.7408004,-102.6351715,73.4,NCT06580964,Texas Tech University,Lubbock,Lubbock,11.1,79.4,45.3,Lower priority
+159,48331,Milam,25951,14.9,"(12.9, 17.1)",11.9,0,0,0.0,No,30.7862144,-96.9769376,30.6,NCT06906627,Baylor Scott & White,Temple,Bell,60.1,30.0,45.1,Lower priority
+160,48431,Sterling,1397,10.5,"( 9.0, 12.2)",9.4,0,0,0.0,No,31.8277007,-101.0500337,88.2,NCT06112418,Hendrick Health,Abilene,Taylor,3.6,85.8,44.7,Lower priority
+161,48193,Hamilton,8619,14.6,"(12.4, 16.8)",11.0,0,0,0.0,No,31.7047218,-98.110871,36.1,NCT06112418,Privia Medical Group- North Texas,Stephenville,Erath,52.2,36.8,44.5,Lower priority
+162,48363,Palo Pinto,29747,14.4,"(12.3, 16.4)",11.6,0,0,0.0,No,32.7530556,-98.3130539,37.3,NCT06112418,Privia Medical Group- North Texas,Stephenville,Erath,49.0,37.9,43.5,Lower priority
+163,48325,Medina,54797,14.4,"(12.4, 16.4)",12.4,0,0,0.0,No,29.355588,-99.1101257,37.1,NCT06897475,"Consano Clinical Research, LLC",Shavano Park,Bexar,49.0,37.5,43.3,Lower priority
+164,48393,Roberts,840,11.6,"( 9.8, 13.5)",8.9,0,0,0.0,No,35.8383986,-100.8134442,71.3,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,9.9,76.7,43.3,Lower priority
+165,48305,Lynn,5761,15.2,"(13.1, 17.5)",13.4,0,0,0.0,No,33.176742,-101.8161278,27.8,NCT06580964,Texas Tech University,Lubbock,Lubbock,62.5,23.7,43.1,Lower priority
+166,48035,Bosque,18996,14.3,"(12.2, 16.6)",10.5,0,0,0.0,No,31.9003042,-97.6342103,37.5,NCT07064473,"Velocity Clinical Research, Waco",Waco,McLennan,47.0,38.7,42.9,Lower priority
+167,48411,San Saba,5845,14.2,"(12.9, 15.6)",12.0,0,0,0.0,No,31.1550874,-98.817397,38.1,NCT07296484,Radiance Clinical Research,Lampasas,Lampasas,45.8,39.5,42.7,Lower priority
+168,48245,Jefferson,251496,15.6,"(13.7, 17.8)",14.2,1,1,0.398,Yes,29.8535898,-94.1533526,16.4,NCT06112418,Gadolin Research,Beaumont,Jefferson,72.3,12.6,42.5,Lower priority
+169,48185,Grimes,32384,14.4,"(12.6, 16.5)",12.3,0,0,0.0,No,30.5432074,-95.9854475,35.4,NCT06028503,Sam Houston State University College of Osteopathic Medicine,Conroe,Montgomery,49.0,36.0,42.5,Lower priority
+170,48333,Mills,4548,14.1,"(11.8, 16.3)",9.9,0,0,0.0,No,31.4951633,-98.5954032,38.5,NCT07296484,Radiance Clinical Research,Lampasas,Lampasas,44.7,39.9,42.3,Lower priority
+171,48133,Eastland,18037,14.1,"(12.1, 16.2)",11.4,0,0,0.0,No,32.3270554,-98.8324497,37.5,NCT06112418,Privia Medical Group- North Texas,Stephenville,Erath,44.7,38.7,41.7,Lower priority
+172,48337,Montague,21598,13.4,"(11.5, 15.3)",10.5,0,0,0.0,No,33.6754778,-97.7246947,46.7,NCT07228117,Revival Research Institute,Denton,Denton,32.0,51.0,41.5,Lower priority
+173,48355,Nueces,352289,15.8,"(14.0, 17.7)",14.5,4,3,1.135,Yes,27.7351971,-97.5162239,8.6,NCT06810726,WoundCentrics Wound Care & Hyperbarics -Corpus Christi - Shoreline,Corpus Christi,Nueces,75.1,7.5,41.3,Lower priority
+174,48313,Madison,13742,13.1,"(11.3, 14.9)",12.9,0,0,0.0,No,30.965583,-95.9284766,53.2,NCT06028503,Sam Houston State University College of Osteopathic Medicine,Conroe,Montgomery,24.9,57.7,41.3,Lower priority
+175,48093,Comanche,14050,14.8,"(12.9, 17.0)",11.4,0,0,0.0,No,31.9479024,-98.5580986,28.1,NCT06112418,Privia Medical Group- North Texas,Stephenville,Erath,57.3,24.9,41.1,Lower priority
+176,48015,Austin,31677,14.7,"(12.8, 16.9)",11.8,0,0,0.0,No,29.8869449,-96.2776993,28.1,NCT05390892,Premier Internal Medicine Associates of Houston,Katy,Fort Bend,56.1,24.9,40.5,Lower priority
+177,48205,Hartley,5145,12.0,"(10.2, 13.9)",10.8,0,0,0.0,No,35.8401038,-102.6028681,60.9,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,13.4,67.6,40.5,Lower priority
+178,48409,San Patricio,70660,15.4,"(13.4, 17.5)",13.9,0,0,0.0,No,28.0088796,-97.5181894,16.2,NCT06810726,WoundCentrics Wound Care & Hyperbarics -Corpus Christi - Shoreline,Corpus Christi,Nueces,68.0,12.3,40.1,Lower priority
+179,48141,El Paso,869880,15.4,"(13.6, 17.3)",15.3,4,4,0.46,Yes,31.7684878,-106.2345559,14.8,NCT05846802,Texas Tech University Health Science Center (TTUHSC),El Paso,El Paso,68.0,11.5,39.7,Lower priority
+180,48359,Oldham,1783,13.3,"(11.3, 15.3)",11.3,0,0,0.0,No,35.4051056,-102.6028784,45.3,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,29.2,48.2,38.7,Lower priority
+181,48233,Hutchinson,20033,12.9,"(11.2, 14.8)",11.0,0,0,0.0,No,35.839936,-101.3546999,50.4,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,22.5,54.9,38.7,Lower priority
+182,48477,Washington,37007,13.2,"(11.4, 15.3)",10.7,0,0,0.0,No,30.2145751,-96.4035004,45.5,NCT05099770,"Pioneer Research Solutions, Inc.",Cypress,Harris,28.1,48.6,38.3,Lower priority
+183,48217,Hill,38101,14.2,"(12.2, 16.3)",11.5,0,0,0.0,No,31.9906425,-97.1322167,30.5,NCT07064473,"Velocity Clinical Research, Waco",Waco,McLennan,45.8,29.6,37.7,Lower priority
+184,48375,Potter,114647,15.3,"(13.3, 17.4)",14.4,3,3,2.617,Yes,35.4011849,-101.8940068,12.9,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,64.8,10.3,37.5,Lower priority
+185,48467,Van Zandt,64000,13.4,"(11.5, 15.5)",10.7,0,0,0.0,No,32.5636239,-95.8363998,39.1,NCT07064473,Care United Research,Forney,Kaufman,32.0,41.5,36.8,Lower priority
+186,48273,Kleberg,30069,14.0,"(12.2, 15.9)",15.4,0,0,0.0,No,27.4268535,-97.6683939,30.7,NCT06810726,WoundCentrics Wound Care & Hyperbarics -Corpus Christi - Shoreline,Corpus Christi,Nueces,42.3,30.4,36.4,Lower priority
+187,48365,Panola,22838,13.8,"(11.9, 15.9)",11.3,0,0,0.0,No,32.1623206,-94.3056865,34.5,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,37.2,34.8,36.0,Lower priority
+188,48219,Hockley,21460,14.1,"(12.2, 16.2)",12.9,0,0,0.0,No,33.6075562,-102.3431848,28.2,NCT06580964,Texas Tech University,Lubbock,Lubbock,44.7,25.3,35.0,Lower priority
+189,48055,Caldwell,49859,14.6,"(12.7, 16.7)",13.5,0,0,0.0,No,29.8368146,-97.6198717,19.5,NCT06112418,"Privia Medical Group Gulf Coast, PLLC ( Javara Inc.)",San Marcos,Hays,52.2,15.0,33.6,Lower priority
+190,48379,Rains,12986,14.1,"(11.9, 16.5)",10.3,0,0,0.0,No,32.8703254,-95.7933377,26.1,NCT06112418,"CardioVoyage, LLC",Greenville,Hunt,44.7,22.5,33.6,Lower priority
+191,48265,Kerr,53915,14.7,"(12.5, 17.0)",10.8,1,1,1.855,Yes,30.0615711,-99.349903,12.6,NCT07564414,Sante Clinical Research,Kerrville,Kerr,56.1,9.5,32.8,Lower priority
+192,48159,Franklin,10735,13.0,"(11.1, 15.0)",9.9,0,0,0.0,No,33.1754058,-95.2184312,38.8,NCT07662109,Research Site,Paris,Lamar,23.7,41.1,32.4,Lower priority
+193,48031,Blanco,13048,13.1,"(11.1, 15.2)",9.2,0,0,0.0,No,30.2662328,-98.3998811,38.1,NCT06112418,"Privia Medical Group Gulf Coast, PLLC ( Javara Inc.)",San Marcos,Hays,24.9,39.5,32.2,Lower priority
+194,48401,Rusk,53079,13.9,"(12.0, 15.9)",12.2,0,0,0.0,No,32.1074748,-94.7618423,27.2,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,39.9,23.3,31.6,Lower priority
+195,48223,Hopkins,38172,13.4,"(11.5, 15.4)",11.2,0,0,0.0,No,33.1495231,-95.5640052,31.6,NCT06112418,"CardioVoyage, LLC",Greenville,Hunt,32.0,31.2,31.6,Lower priority
+196,48041,Brazos,244703,9.7,"( 8.4, 11.3)",12.5,0,0,0.0,No,30.6606263,-96.3023227,55.9,NCT06028503,Sam Houston State University College of Osteopathic Medicine,Conroe,Montgomery,1.6,59.3,30.4,Lower priority
+197,48423,Smith,245209,13.2,"(11.4, 15.2)",11.7,0,0,0.0,No,32.3749424,-95.2690261,32.0,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,28.1,32.4,30.2,Lower priority
+198,48291,Liberty,108272,13.9,"(12.2, 15.9)",13.8,0,0,0.0,No,30.151464,-94.8120084,23.1,NCT07392190,Activian Clinical Research,Kingwood,Harris,39.9,19.0,29.4,Lower priority
+199,48471,Walker,81268,13.3,"(11.5, 15.2)",13.8,0,0,0.0,No,30.738965,-95.5722749,30.3,NCT06028503,Sam Houston State University College of Osteopathic Medicine,Conroe,Montgomery,29.2,29.2,29.2,Lower priority
+200,48021,Bastrop,110778,13.4,"(11.6, 15.4)",12.0,0,0,0.0,No,30.1034996,-97.3120444,28.1,NCT05267626,Texas Oncology (Balcones) - SCRI,Austin,Travis,32.0,24.9,28.5,Lower priority
+201,48459,Upshur,43281,13.9,"(12.0, 16.1)",11.4,0,0,0.0,No,32.7362324,-94.9415316,20.0,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,39.9,15.4,27.7,Lower priority
+202,48203,Harrison,70895,13.8,"(12.0, 15.9)",11.9,0,0,0.0,No,32.5481538,-94.371438,21.7,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,37.2,17.8,27.5,Lower priority
+203,48147,Fannin,37571,13.2,"(11.3, 15.3)",11.4,0,0,0.0,No,33.5937044,-96.106956,29.0,NCT07064473,Sherman Clinical Research,Sherman,Grayson,28.1,26.1,27.1,Lower priority
+204,48171,Gillespie,27733,13.6,"(11.5, 15.8)",9.5,0,0,0.0,No,30.3181089,-98.946481,22.0,NCT07564414,Sante Clinical Research,Kerrville,Kerr,34.4,18.6,26.5,Lower priority
+205,48493,Wilson,54183,13.1,"(11.4, 15.1)",11.0,0,0,0.0,No,29.1739593,-98.0866879,30.0,NCT02969798,The University of Texas Health Science Center at San Antonio,San Antonio,Bexar,24.9,28.1,26.5,Lower priority
+206,48011,Armstrong,1832,12.6,"(10.8, 14.7)",9.4,0,0,0.0,No,34.9648378,-101.3574087,32.1,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,19.0,33.2,26.1,Lower priority
+207,48097,Cooke,43782,13.0,"(11.2, 15.2)",10.8,0,0,0.0,No,33.639116,-97.2126272,29.7,NCT07228117,Revival Research Institute,Denton,Denton,23.7,27.7,25.7,Lower priority
+208,48119,Delta,5520,13.7,"(12.5, 14.9)",10.9,0,0,0.0,No,33.3863284,-95.6723145,20.1,NCT07662109,Research Site,Paris,Lamar,35.2,15.8,25.5,Lower priority
+209,48281,Lampasas,23262,14.0,"(12.1, 16.2)",11.0,3,3,12.897,Yes,31.1962127,-98.2414097,9.8,NCT07296484,Radiance Clinical Research,Lampasas,Lampasas,42.3,8.3,25.3,Lower priority
+210,48053,Burnet,53991,13.5,"(11.5, 15.7)",10.3,0,0,0.0,No,30.7881967,-98.1824324,19.0,NCT07296484,Radiance Clinical Research,Lampasas,Lampasas,33.2,14.6,23.9,Lower priority
+211,48277,Lamar,51127,14.3,"(12.3, 16.6)",11.9,1,1,1.956,Yes,33.6671749,-95.5711481,1.0,NCT07662109,Research Site,Paris,Lamar,47.0,0.4,23.7,Lower priority
+212,48059,Callahan,14374,13.2,"(11.2, 15.3)",10.2,0,0,0.0,No,32.2975735,-99.37349,23.4,NCT06112418,Hendrick Health,Abilene,Taylor,28.1,19.4,23.7,Lower priority
+213,48039,Brazoria,398938,12.0,"(10.5, 13.5)",11.3,0,0,0.0,No,29.167661,-95.4343566,31.8,NCT07392190,Synergy Groups Medical LLC - Missouri City,Missouri City,Fort Bend,13.4,31.6,22.5,Lower priority
+214,48417,Shackelford,3229,12.3,"(10.4, 14.2)",9.5,0,0,0.0,No,32.7358835,-99.354067,29.7,NCT06112418,Hendrick Health,Abilene,Taylor,15.8,27.7,21.7,Lower priority
+215,48029,Bexar,2087679,13.9,"(12.2, 15.6)",13.8,63,41,3.018,Yes,29.4488309,-98.5199598,2.3,NCT02969798,The University of Texas Health Science Center at San Antonio,San Antonio,Bexar,39.9,2.4,21.1,Lower priority
+216,48253,Jones,20381,13.0,"(11.2, 14.9)",12.9,0,0,0.0,No,32.7398239,-99.8787416,21.8,NCT06112418,Hendrick Health,Abilene,Taylor,23.7,18.2,20.9,Lower priority
+217,48221,Hood,67774,12.5,"(10.5, 14.4)",9.2,0,0,0.0,No,32.429918,-97.8322557,26.0,NCT06112418,Privia Medical Group- North Texas,Stephenville,Erath,18.2,22.1,20.2,Lower priority
+218,48497,Wise,78097,11.9,"(10.3, 13.7)",10.3,0,0,0.0,No,33.2158153,-97.6544649,30.1,NCT07228117,Revival Research Institute,Denton,Denton,11.9,28.5,20.2,Lower priority
+219,48183,Gregg,126243,13.5,"(11.7, 15.5)",12.3,1,1,0.792,Yes,32.4804446,-94.8169596,4.7,NCT07564414,DCOL Ctr for Clin Res,Longview,Gregg,33.2,5.5,19.4,Lower priority
+220,48065,Carson,5878,11.7,"(10.1, 13.5)",9.3,0,0,0.0,No,35.40341,-101.3541832,29.7,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,10.7,27.7,19.2,Lower priority
+221,48187,Guadalupe,188454,12.8,"(11.2, 14.6)",11.6,0,0,0.0,No,29.5830134,-97.9486345,20.8,NCT06112418,"Privia Medical Group Gulf Coast, PLLC ( Javara Inc.)",San Marcos,Hays,20.9,17.0,19.0,Lower priority
+222,48199,Hardin,58261,12.4,"(10.6, 14.2)",10.4,0,0,0.0,No,30.3323489,-94.3902462,24.2,NCT06112418,Gadolin Research,Beaumont,Jefferson,16.6,20.9,18.8,Lower priority
+223,48425,Somervell,9888,12.3,"(10.5, 14.3)",9.8,0,0,0.0,No,32.2222128,-97.7745934,25.0,NCT06112418,Privia Medical Group- North Texas,Stephenville,Erath,15.8,21.3,18.6,Lower priority
+224,48099,Coryell,84878,10.3,"( 9.0, 11.8)",11.5,0,0,0.0,No,31.3908208,-97.7992456,32.0,NCT07296484,Radiance Clinical Research,Lampasas,Lampasas,3.2,32.4,17.8,Lower priority
+225,48201,Harris,4835125,13.2,"(11.6, 15.0)",13.2,66,39,1.365,Yes,29.8573332,-95.3920016,6.7,NCT04101669,Baylor College of Medicine,Houston,Harris,28.1,7.1,17.6,Lower priority
+226,48251,Johnson,202906,11.9,"(10.2, 13.7)",11.0,0,0,0.0,No,32.3789766,-97.3665962,24.1,NCT06481904,Cook Children's- Site Number : 8400038,Fort Worth,Tarrant,11.9,20.6,16.2,Lower priority
+227,48259,Kendall,50537,11.1,"( 9.6, 13.1)",8.8,0,0,0.0,No,29.9446335,-98.7115626,26.6,NCT06897475,"Consano Clinical Research, LLC",Shavano Park,Bexar,6.7,22.9,14.8,Lower priority
+228,48367,Parker,173494,10.7,"( 9.1, 12.5)",9.2,0,0,0.0,No,32.7775551,-97.8050978,28.4,NCT06481904,Cook Children's- Site Number : 8400038,Fort Worth,Tarrant,4.0,25.7,14.8,Lower priority
+229,48027,Bell,393193,12.6,"(11.1, 14.3)",13.0,2,2,0.509,Yes,31.0373444,-97.4787564,9.1,NCT06906627,Baylor Scott & White,Temple,Bell,19.0,7.9,13.4,Lower priority
+230,48361,Orange,85722,12.4,"(10.7, 14.2)",10.9,0,0,0.0,No,30.1212983,-93.8938494,12.7,NCT06112418,Gadolin Research,Beaumont,Jefferson,16.6,9.9,13.2,Lower priority
+231,48071,Chambers,53876,10.8,"( 9.3, 12.5)",10.7,0,0,0.0,No,29.7082824,-94.6714265,23.5,NCT07296484,Elevate Clinical Research,Seabrook,Harris,5.5,19.8,12.6,Lower priority
+232,48091,Comal,193928,11.2,"( 9.7, 13.0)",9.2,0,0,0.0,No,29.8081665,-98.2782278,20.8,NCT06112418,"Privia Medical Group Gulf Coast, PLLC ( Javara Inc.)",San Marcos,Hays,7.9,17.0,12.5,Lower priority
+233,48181,Grayson,146907,12.5,"(10.8, 14.4)",10.6,1,1,0.681,Yes,33.6267118,-96.6776355,4.0,NCT07064473,Sherman Clinical Research,Sherman,Grayson,18.2,5.1,11.7,Lower priority
+234,48167,Galveston,361744,12.3,"(10.7, 14.0)",10.8,3,3,0.829,Yes,29.3800088,-94.8629005,6.7,NCT06080425,"University of Texas Medical Branch, Galveston",Galveston,Galveston,15.8,7.1,11.5,Lower priority
+235,48139,Ellis,222829,11.6,"(10.0, 13.4)",10.9,0,0,0.0,No,32.3484009,-96.7946905,17.1,NCT06267391,Epic Medical Research,DeSoto,Dallas,9.9,13.0,11.5,Lower priority
+236,48309,McLennan,268583,12.5,"(10.9, 14.2)",12.2,2,2,0.745,Yes,31.5523327,-97.2019149,3.3,NCT07064473,"Velocity Clinical Research, Waco",Waco,McLennan,18.2,4.0,11.1,Lower priority
+237,48473,Waller,63553,11.1,"( 9.6, 12.7)",12.2,0,0,0.0,No,30.0106049,-95.9876222,17.6,NCT05099770,"Pioneer Research Solutions, Inc.",Cypress,Harris,6.7,13.8,10.3,Lower priority
+238,48113,Dallas,2606358,12.5,"(10.9, 14.0)",12.5,51,33,1.957,Yes,32.7664847,-96.7777649,2.0,NCT04786262,Baylor Scott and White Research Institute,Dallas,Dallas,18.2,2.0,10.1,Lower priority
+239,48257,Kaufman,185690,11.2,"( 9.7, 12.9)",11.5,1,1,0.539,Yes,32.5991597,-96.2877515,14.9,NCT07064473,Care United Research,Forney,Kaufman,7.9,11.9,9.9,Lower priority
+240,48381,Randall,148255,10.8,"( 9.2, 12.4)",10.0,0,0,0.0,No,34.96577,-101.8969477,18.1,NCT05572814,Cardiology Center of Amarillo,Amarillo,Potter,5.5,14.2,9.9,Lower priority
+241,48441,Taylor,146836,11.2,"( 9.7, 12.9)",11.3,1,1,0.681,Yes,32.301388,-99.8901231,13.7,NCT06112418,Hendrick Health,Abilene,Taylor,7.9,11.1,9.5,Lower priority
+242,48157,Fort Bend,916778,12.0,"(10.4, 13.6)",11.1,12,9,1.309,Yes,29.5275141,-95.7708664,3.8,NCT07215559,Aavon Clinical Trials,Richmond,Fort Bend,13.4,4.7,9.1,Lower priority
+243,48231,Hunt,113347,12.3,"(10.5, 14.1)",11.2,1,1,0.882,Yes,33.1233955,-96.0855325,1.8,NCT06112418,"CardioVoyage, LLC",Greenville,Hunt,15.8,1.6,8.7,Lower priority
+244,48439,Tarrant,2182947,11.7,"(10.2, 13.3)",11.4,7,6,0.321,Yes,32.7718353,-97.2911316,3.6,NCT06481904,Cook Children's- Site Number : 8400038,Fort Worth,Tarrant,10.7,4.3,7.5,Lower priority
+245,48209,Hays,280486,10.2,"( 8.8, 11.8)",10.8,2,2,0.713,Yes,30.0578103,-98.031045,13.2,NCT06112418,"Privia Medical Group Gulf Coast, PLLC ( Javara Inc.)",San Marcos,Hays,2.8,10.7,6.7,Lower priority
+246,48303,Lubbock,320940,11.4,"( 9.8, 13.0)",12.0,1,1,0.312,Yes,33.6101192,-101.8205448,3.0,NCT06580964,Texas Tech University,Lubbock,Lubbock,8.7,3.6,6.1,Lower priority
+247,48339,Montgomery,711354,11.4,"( 9.7, 13.2)",10.4,2,2,0.281,Yes,30.3001869,-95.502821,2.9,NCT06028503,Sam Houston State University College of Osteopathic Medicine,Conroe,Montgomery,8.7,3.2,5.9,Lower priority
+248,48491,Williamson,697191,9.8,"( 8.5, 11.3)",9.5,3,3,0.43,Yes,30.647567,-97.6002229,10.7,NCT06267391,"Texas Diabetes & Endocrinology, P.A.",Round Rock,Williamson,2.0,8.7,5.3,Lower priority
+249,48397,Rockwall,131307,9.4,"( 8.0, 10.8)",8.7,0,0,0.0,No,32.8978391,-96.4078854,11.0,NCT07064473,Care United Research,Forney,Kaufman,0.8,9.1,4.9,Lower priority
+250,48143,Erath,44195,10.8,"( 9.3, 12.4)",11.0,3,3,6.788,Yes,32.2361088,-98.2178733,1.4,NCT06112418,Privia Medical Group- North Texas,Stephenville,Erath,5.5,1.2,3.4,Lower priority
+251,48453,Travis,1334961,9.0,"( 7.8, 10.2)",9.5,19,16,1.423,Yes,30.3343599,-97.7818171,5.2,NCT05267626,Texas Oncology (Balcones) - SCRI,Austin,Travis,0.4,5.9,3.2,Lower priority
+252,48085,Collin,1195359,9.5,"( 8.2, 10.9)",9.1,9,9,0.753,Yes,33.1879302,-96.5724074,2.6,NCT05390892,North Dallas Research Associates,McKinney,Collin,1.2,2.8,2.0,Lower priority
+253,48121,Denton,1007703,9.9,"( 8.5, 11.3)",9.6,7,7,0.695,Yes,33.2054606,-97.1168139,1.1,NCT07228117,Revival Research Institute,Denton,Denton,2.4,0.8,1.6,Lower priority

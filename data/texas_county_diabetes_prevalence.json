@@ -1,0 +1,2532 @@
+[
+  {
+    "stateabbr": "TX",
+    "countyname": "Hemphill",
+    "countyfips": "48211",
+    "totalpopulation": "3189",
+    "diabetes_crudeprev": "11.6",
+    "diabetes_crude95ci": "(10.0, 13.5)",
+    "diabetes_adjprev": "9.7",
+    "diabetes_adj95ci": "( 8.3, 11.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Goliad",
+    "countyfips": "48175",
+    "totalpopulation": "7144",
+    "diabetes_crudeprev": "15.6",
+    "diabetes_crude95ci": "(13.5, 17.8)",
+    "diabetes_adjprev": "11.6",
+    "diabetes_adj95ci": "(10.0, 13.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Taylor",
+    "countyfips": "48441",
+    "totalpopulation": "146836",
+    "diabetes_crudeprev": "11.2",
+    "diabetes_crude95ci": "( 9.7, 12.9)",
+    "diabetes_adjprev": "11.3",
+    "diabetes_adj95ci": "( 9.8, 12.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "El Paso",
+    "countyfips": "48141",
+    "totalpopulation": "869880",
+    "diabetes_crudeprev": "15.4",
+    "diabetes_crude95ci": "(13.6, 17.3)",
+    "diabetes_adjprev": "15.3",
+    "diabetes_adj95ci": "(13.5, 17.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Brazoria",
+    "countyfips": "48039",
+    "totalpopulation": "398938",
+    "diabetes_crudeprev": "12.0",
+    "diabetes_crude95ci": "(10.5, 13.5)",
+    "diabetes_adjprev": "11.3",
+    "diabetes_adj95ci": "( 9.9, 12.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Castro",
+    "countyfips": "48069",
+    "totalpopulation": "7227",
+    "diabetes_crudeprev": "15.5",
+    "diabetes_crude95ci": "(12.9, 18.2)",
+    "diabetes_adjprev": "13.7",
+    "diabetes_adj95ci": "(11.5, 16.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hansford",
+    "countyfips": "48195",
+    "totalpopulation": "5071",
+    "diabetes_crudeprev": "13.6",
+    "diabetes_crude95ci": "(11.7, 15.6)",
+    "diabetes_adjprev": "12.3",
+    "diabetes_adj95ci": "(10.5, 14.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Jackson",
+    "countyfips": "48239",
+    "totalpopulation": "15221",
+    "diabetes_crudeprev": "14.7",
+    "diabetes_crude95ci": "(12.7, 16.6)",
+    "diabetes_adjprev": "12.1",
+    "diabetes_adj95ci": "(10.4, 13.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Zapata",
+    "countyfips": "48505",
+    "totalpopulation": "13736",
+    "diabetes_crudeprev": "20.8",
+    "diabetes_crude95ci": "(18.2, 23.4)",
+    "diabetes_adjprev": "20.1",
+    "diabetes_adj95ci": "(17.5, 22.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "King",
+    "countyfips": "48269",
+    "totalpopulation": "217",
+    "diabetes_crudeprev": "16.8",
+    "diabetes_crude95ci": "(14.3, 19.5)",
+    "diabetes_adjprev": "12.2",
+    "diabetes_adj95ci": "(10.4, 14.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Angelina",
+    "countyfips": "48005",
+    "totalpopulation": "87319",
+    "diabetes_crudeprev": "14.9",
+    "diabetes_crude95ci": "(13.0, 16.8)",
+    "diabetes_adjprev": "13.0",
+    "diabetes_adj95ci": "(11.3, 14.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Duval",
+    "countyfips": "48131",
+    "totalpopulation": "9604",
+    "diabetes_crudeprev": "18.8",
+    "diabetes_crude95ci": "(16.6, 21.3)",
+    "diabetes_adjprev": "17.0",
+    "diabetes_adj95ci": "(14.8, 19.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Limestone",
+    "countyfips": "48293",
+    "totalpopulation": "22250",
+    "diabetes_crudeprev": "16.1",
+    "diabetes_crude95ci": "(14.0, 18.4)",
+    "diabetes_adjprev": "13.1",
+    "diabetes_adj95ci": "(11.4, 15.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Lynn",
+    "countyfips": "48305",
+    "totalpopulation": "5761",
+    "diabetes_crudeprev": "15.2",
+    "diabetes_crude95ci": "(13.1, 17.5)",
+    "diabetes_adjprev": "13.4",
+    "diabetes_adj95ci": "(11.6, 15.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Gaines",
+    "countyfips": "48165",
+    "totalpopulation": "22523",
+    "diabetes_crudeprev": "11.8",
+    "diabetes_crude95ci": "(10.2, 13.5)",
+    "diabetes_adjprev": "12.3",
+    "diabetes_adj95ci": "(10.7, 14.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Medina",
+    "countyfips": "48325",
+    "totalpopulation": "54797",
+    "diabetes_crudeprev": "14.4",
+    "diabetes_crude95ci": "(12.4, 16.4)",
+    "diabetes_adjprev": "12.4",
+    "diabetes_adj95ci": "(10.7, 14.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Stonewall",
+    "countyfips": "48433",
+    "totalpopulation": "1218",
+    "diabetes_crudeprev": "15.8",
+    "diabetes_crude95ci": "(14.4, 17.3)",
+    "diabetes_adjprev": "11.5",
+    "diabetes_adj95ci": "(10.5, 12.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Presidio",
+    "countyfips": "48377",
+    "totalpopulation": "5795",
+    "diabetes_crudeprev": "22.2",
+    "diabetes_crude95ci": "(19.4, 24.9)",
+    "diabetes_adjprev": "17.8",
+    "diabetes_adj95ci": "(15.5, 20.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hartley",
+    "countyfips": "48205",
+    "totalpopulation": "5145",
+    "diabetes_crudeprev": "12.0",
+    "diabetes_crude95ci": "(10.2, 13.9)",
+    "diabetes_adjprev": "10.8",
+    "diabetes_adj95ci": "( 9.3, 12.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Dallam",
+    "countyfips": "48111",
+    "totalpopulation": "7237",
+    "diabetes_crudeprev": "14.7",
+    "diabetes_crude95ci": "(12.8, 16.6)",
+    "diabetes_adjprev": "14.6",
+    "diabetes_adj95ci": "(12.7, 16.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Cottle",
+    "countyfips": "48101",
+    "totalpopulation": "1294",
+    "diabetes_crudeprev": "18.8",
+    "diabetes_crude95ci": "(16.3, 21.6)",
+    "diabetes_adjprev": "13.9",
+    "diabetes_adj95ci": "(12.0, 16.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Runnels",
+    "countyfips": "48399",
+    "totalpopulation": "9868",
+    "diabetes_crudeprev": "14.7",
+    "diabetes_crude95ci": "(12.7, 16.8)",
+    "diabetes_adjprev": "11.8",
+    "diabetes_adj95ci": "(10.2, 13.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Webb",
+    "countyfips": "48479",
+    "totalpopulation": "269148",
+    "diabetes_crudeprev": "16.1",
+    "diabetes_crude95ci": "(13.9, 18.5)",
+    "diabetes_adjprev": "16.8",
+    "diabetes_adj95ci": "(14.5, 19.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Brooks",
+    "countyfips": "48047",
+    "totalpopulation": "6848",
+    "diabetes_crudeprev": "19.8",
+    "diabetes_crude95ci": "(18.1, 21.5)",
+    "diabetes_adjprev": "18.2",
+    "diabetes_adj95ci": "(16.6, 19.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Atascosa",
+    "countyfips": "48013",
+    "totalpopulation": "51784",
+    "diabetes_crudeprev": "15.4",
+    "diabetes_crude95ci": "(13.4, 17.5)",
+    "diabetes_adjprev": "14.0",
+    "diabetes_adj95ci": "(12.3, 16.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Kendall",
+    "countyfips": "48259",
+    "totalpopulation": "50537",
+    "diabetes_crudeprev": "11.1",
+    "diabetes_crude95ci": "( 9.6, 13.1)",
+    "diabetes_adjprev": "8.8",
+    "diabetes_adj95ci": "( 7.6, 10.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Fort Bend",
+    "countyfips": "48157",
+    "totalpopulation": "916778",
+    "diabetes_crudeprev": "12.0",
+    "diabetes_crude95ci": "(10.4, 13.6)",
+    "diabetes_adjprev": "11.1",
+    "diabetes_adj95ci": "( 9.6, 12.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Smith",
+    "countyfips": "48423",
+    "totalpopulation": "245209",
+    "diabetes_crudeprev": "13.2",
+    "diabetes_crude95ci": "(11.4, 15.2)",
+    "diabetes_adjprev": "11.7",
+    "diabetes_adj95ci": "(10.0, 13.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Uvalde",
+    "countyfips": "48463",
+    "totalpopulation": "24960",
+    "diabetes_crudeprev": "15.7",
+    "diabetes_crude95ci": "(13.7, 17.8)",
+    "diabetes_adjprev": "14.6",
+    "diabetes_adj95ci": "(12.7, 16.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Navarro",
+    "countyfips": "48349",
+    "totalpopulation": "55635",
+    "diabetes_crudeprev": "15.3",
+    "diabetes_crude95ci": "(13.4, 17.6)",
+    "diabetes_adjprev": "13.5",
+    "diabetes_adj95ci": "(11.8, 15.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Lavaca",
+    "countyfips": "48285",
+    "totalpopulation": "20571",
+    "diabetes_crudeprev": "14.6",
+    "diabetes_crude95ci": "(12.7, 16.8)",
+    "diabetes_adjprev": "11.1",
+    "diabetes_adj95ci": "( 9.5, 12.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Parmer",
+    "countyfips": "48369",
+    "totalpopulation": "9617",
+    "diabetes_crudeprev": "15.0",
+    "diabetes_crude95ci": "(12.9, 16.9)",
+    "diabetes_adjprev": "13.5",
+    "diabetes_adj95ci": "(11.6, 15.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Martin",
+    "countyfips": "48317",
+    "totalpopulation": "5216",
+    "diabetes_crudeprev": "12.1",
+    "diabetes_crude95ci": "(11.1, 13.1)",
+    "diabetes_adjprev": "11.5",
+    "diabetes_adj95ci": "(10.6, 12.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Childress",
+    "countyfips": "48075",
+    "totalpopulation": "6788",
+    "diabetes_crudeprev": "12.0",
+    "diabetes_crude95ci": "(10.4, 13.7)",
+    "diabetes_adjprev": "12.0",
+    "diabetes_adj95ci": "(10.4, 13.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Oldham",
+    "countyfips": "48359",
+    "totalpopulation": "1783",
+    "diabetes_crudeprev": "13.3",
+    "diabetes_crude95ci": "(11.3, 15.3)",
+    "diabetes_adjprev": "11.3",
+    "diabetes_adj95ci": "( 9.6, 13.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Terrell",
+    "countyfips": "48443",
+    "totalpopulation": "687",
+    "diabetes_crudeprev": "15.0",
+    "diabetes_crude95ci": "(12.9, 17.2)",
+    "diabetes_adjprev": "10.4",
+    "diabetes_adj95ci": "( 9.0, 12.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Comanche",
+    "countyfips": "48093",
+    "totalpopulation": "14050",
+    "diabetes_crudeprev": "14.8",
+    "diabetes_crude95ci": "(12.9, 17.0)",
+    "diabetes_adjprev": "11.4",
+    "diabetes_adj95ci": "( 9.8, 13.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Mitchell",
+    "countyfips": "48335",
+    "totalpopulation": "9075",
+    "diabetes_crudeprev": "13.3",
+    "diabetes_crude95ci": "(11.5, 15.1)",
+    "diabetes_adjprev": "13.5",
+    "diabetes_adj95ci": "(11.6, 15.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Rains",
+    "countyfips": "48379",
+    "totalpopulation": "12986",
+    "diabetes_crudeprev": "14.1",
+    "diabetes_crude95ci": "(11.9, 16.5)",
+    "diabetes_adjprev": "10.3",
+    "diabetes_adj95ci": "( 8.7, 12.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Caldwell",
+    "countyfips": "48055",
+    "totalpopulation": "49859",
+    "diabetes_crudeprev": "14.6",
+    "diabetes_crude95ci": "(12.7, 16.7)",
+    "diabetes_adjprev": "13.5",
+    "diabetes_adj95ci": "(11.7, 15.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Wilbarger",
+    "countyfips": "48487",
+    "totalpopulation": "12522",
+    "diabetes_crudeprev": "16.5",
+    "diabetes_crude95ci": "(14.4, 18.8)",
+    "diabetes_adjprev": "14.2",
+    "diabetes_adj95ci": "(12.4, 16.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hood",
+    "countyfips": "48221",
+    "totalpopulation": "67774",
+    "diabetes_crudeprev": "12.5",
+    "diabetes_crude95ci": "(10.5, 14.4)",
+    "diabetes_adjprev": "9.2",
+    "diabetes_adj95ci": "( 7.8, 10.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Schleicher",
+    "countyfips": "48413",
+    "totalpopulation": "2391",
+    "diabetes_crudeprev": "14.8",
+    "diabetes_crude95ci": "(13.4, 16.2)",
+    "diabetes_adjprev": "11.9",
+    "diabetes_adj95ci": "(10.8, 13.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Bailey",
+    "countyfips": "48017",
+    "totalpopulation": "6672",
+    "diabetes_crudeprev": "15.5",
+    "diabetes_crude95ci": "(14.2, 16.9)",
+    "diabetes_adjprev": "14.3",
+    "diabetes_adj95ci": "(13.0, 15.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Gregg",
+    "countyfips": "48183",
+    "totalpopulation": "126243",
+    "diabetes_crudeprev": "13.5",
+    "diabetes_crude95ci": "(11.7, 15.5)",
+    "diabetes_adjprev": "12.3",
+    "diabetes_adj95ci": "(10.6, 14.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Johnson",
+    "countyfips": "48251",
+    "totalpopulation": "202906",
+    "diabetes_crudeprev": "11.9",
+    "diabetes_crude95ci": "(10.2, 13.7)",
+    "diabetes_adjprev": "11.0",
+    "diabetes_adj95ci": "( 9.4, 12.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Blanco",
+    "countyfips": "48031",
+    "totalpopulation": "13048",
+    "diabetes_crudeprev": "13.1",
+    "diabetes_crude95ci": "(11.1, 15.2)",
+    "diabetes_adjprev": "9.2",
+    "diabetes_adj95ci": "( 7.8, 10.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Cameron",
+    "countyfips": "48061",
+    "totalpopulation": "426710",
+    "diabetes_crudeprev": "18.3",
+    "diabetes_crude95ci": "(16.3, 20.6)",
+    "diabetes_adjprev": "17.5",
+    "diabetes_adj95ci": "(15.5, 19.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Zavala",
+    "countyfips": "48507",
+    "totalpopulation": "9312",
+    "diabetes_crudeprev": "22.6",
+    "diabetes_crude95ci": "(20.8, 24.3)",
+    "diabetes_adjprev": "21.4",
+    "diabetes_adj95ci": "(19.8, 23.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Guadalupe",
+    "countyfips": "48187",
+    "totalpopulation": "188454",
+    "diabetes_crudeprev": "12.8",
+    "diabetes_crude95ci": "(11.2, 14.6)",
+    "diabetes_adjprev": "11.6",
+    "diabetes_adj95ci": "(10.2, 13.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Armstrong",
+    "countyfips": "48011",
+    "totalpopulation": "1832",
+    "diabetes_crudeprev": "12.6",
+    "diabetes_crude95ci": "(10.8, 14.7)",
+    "diabetes_adjprev": "9.4",
+    "diabetes_adj95ci": "( 8.0, 11.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Wise",
+    "countyfips": "48497",
+    "totalpopulation": "78097",
+    "diabetes_crudeprev": "11.9",
+    "diabetes_crude95ci": "(10.3, 13.7)",
+    "diabetes_adjprev": "10.3",
+    "diabetes_adj95ci": "( 8.9, 12.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hudspeth",
+    "countyfips": "48229",
+    "totalpopulation": "3451",
+    "diabetes_crudeprev": "14.3",
+    "diabetes_crude95ci": "(13.1, 15.5)",
+    "diabetes_adjprev": "17.4",
+    "diabetes_adj95ci": "(16.0, 18.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Travis",
+    "countyfips": "48453",
+    "totalpopulation": "1334961",
+    "diabetes_crudeprev": "9.0",
+    "diabetes_crude95ci": "( 7.8, 10.2)",
+    "diabetes_adjprev": "9.5",
+    "diabetes_adj95ci": "( 8.3, 10.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Reeves",
+    "countyfips": "48389",
+    "totalpopulation": "11770",
+    "diabetes_crudeprev": "17.6",
+    "diabetes_crude95ci": "(15.3, 20.0)",
+    "diabetes_adjprev": "17.5",
+    "diabetes_adj95ci": "(15.2, 19.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "DeWitt",
+    "countyfips": "48123",
+    "totalpopulation": "19929",
+    "diabetes_crudeprev": "16.0",
+    "diabetes_crude95ci": "(13.9, 18.3)",
+    "diabetes_adjprev": "13.1",
+    "diabetes_adj95ci": "(11.3, 15.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Washington",
+    "countyfips": "48477",
+    "totalpopulation": "37007",
+    "diabetes_crudeprev": "13.2",
+    "diabetes_crude95ci": "(11.4, 15.3)",
+    "diabetes_adjprev": "10.7",
+    "diabetes_adj95ci": "( 9.2, 12.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Coryell",
+    "countyfips": "48099",
+    "totalpopulation": "84878",
+    "diabetes_crudeprev": "10.3",
+    "diabetes_crude95ci": "( 9.0, 11.8)",
+    "diabetes_adjprev": "11.5",
+    "diabetes_adj95ci": "(10.0, 13.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Jeff Davis",
+    "countyfips": "48243",
+    "totalpopulation": "1856",
+    "diabetes_crudeprev": "21.2",
+    "diabetes_crude95ci": "(18.3, 24.4)",
+    "diabetes_adjprev": "13.1",
+    "diabetes_adj95ci": "(11.3, 15.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Starr",
+    "countyfips": "48427",
+    "totalpopulation": "65934",
+    "diabetes_crudeprev": "20.0",
+    "diabetes_crude95ci": "(17.6, 22.6)",
+    "diabetes_adjprev": "20.5",
+    "diabetes_adj95ci": "(18.0, 23.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hutchinson",
+    "countyfips": "48233",
+    "totalpopulation": "20033",
+    "diabetes_crudeprev": "12.9",
+    "diabetes_crude95ci": "(11.2, 14.8)",
+    "diabetes_adjprev": "11.0",
+    "diabetes_adj95ci": "( 9.5, 12.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hamilton",
+    "countyfips": "48193",
+    "totalpopulation": "8619",
+    "diabetes_crudeprev": "14.6",
+    "diabetes_crude95ci": "(12.4, 16.8)",
+    "diabetes_adjprev": "11.0",
+    "diabetes_adj95ci": "( 9.3, 12.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Kinney",
+    "countyfips": "48271",
+    "totalpopulation": "3148",
+    "diabetes_crudeprev": "15.8",
+    "diabetes_crude95ci": "(13.7, 18.1)",
+    "diabetes_adjprev": "13.2",
+    "diabetes_adj95ci": "(11.4, 15.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Wood",
+    "countyfips": "48499",
+    "totalpopulation": "47921",
+    "diabetes_crudeprev": "14.6",
+    "diabetes_crude95ci": "(12.5, 16.9)",
+    "diabetes_adjprev": "10.6",
+    "diabetes_adj95ci": "( 9.1, 12.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Live Oak",
+    "countyfips": "48297",
+    "totalpopulation": "11584",
+    "diabetes_crudeprev": "16.2",
+    "diabetes_crude95ci": "(14.2, 18.7)",
+    "diabetes_adjprev": "14.2",
+    "diabetes_adj95ci": "(12.4, 16.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Donley",
+    "countyfips": "48129",
+    "totalpopulation": "3214",
+    "diabetes_crudeprev": "14.0",
+    "diabetes_crude95ci": "(12.1, 16.1)",
+    "diabetes_adjprev": "10.9",
+    "diabetes_adj95ci": "( 9.5, 12.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Palo Pinto",
+    "countyfips": "48363",
+    "totalpopulation": "29747",
+    "diabetes_crudeprev": "14.4",
+    "diabetes_crude95ci": "(12.3, 16.4)",
+    "diabetes_adjprev": "11.6",
+    "diabetes_adj95ci": "( 9.9, 13.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Floyd",
+    "countyfips": "48153",
+    "totalpopulation": "5090",
+    "diabetes_crudeprev": "17.0",
+    "diabetes_crude95ci": "(15.6, 18.5)",
+    "diabetes_adjprev": "14.4",
+    "diabetes_adj95ci": "(13.1, 15.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Shelby",
+    "countyfips": "48419",
+    "totalpopulation": "24179",
+    "diabetes_crudeprev": "16.4",
+    "diabetes_crude95ci": "(14.3, 18.6)",
+    "diabetes_adjprev": "13.7",
+    "diabetes_adj95ci": "(12.0, 15.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Erath",
+    "countyfips": "48143",
+    "totalpopulation": "44195",
+    "diabetes_crudeprev": "10.8",
+    "diabetes_crude95ci": "( 9.3, 12.4)",
+    "diabetes_adjprev": "11.0",
+    "diabetes_adj95ci": "( 9.5, 12.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Chambers",
+    "countyfips": "48071",
+    "totalpopulation": "53876",
+    "diabetes_crudeprev": "10.8",
+    "diabetes_crude95ci": "( 9.3, 12.5)",
+    "diabetes_adjprev": "10.7",
+    "diabetes_adj95ci": "( 9.1, 12.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Borden",
+    "countyfips": "48033",
+    "totalpopulation": "572",
+    "diabetes_crudeprev": "13.2",
+    "diabetes_crude95ci": "(11.9, 14.8)",
+    "diabetes_adjprev": "9.3",
+    "diabetes_adj95ci": "( 8.4, 10.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Frio",
+    "countyfips": "48163",
+    "totalpopulation": "17987",
+    "diabetes_crudeprev": "15.3",
+    "diabetes_crude95ci": "(13.4, 17.3)",
+    "diabetes_adjprev": "16.5",
+    "diabetes_adj95ci": "(14.4, 18.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Aransas",
+    "countyfips": "48007",
+    "totalpopulation": "25374",
+    "diabetes_crudeprev": "15.9",
+    "diabetes_crude95ci": "(13.8, 18.5)",
+    "diabetes_adjprev": "11.4",
+    "diabetes_adj95ci": "( 9.8, 13.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Victoria",
+    "countyfips": "48469",
+    "totalpopulation": "91664",
+    "diabetes_crudeprev": "14.5",
+    "diabetes_crude95ci": "(12.6, 16.5)",
+    "diabetes_adjprev": "12.9",
+    "diabetes_adj95ci": "(11.2, 14.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Haskell",
+    "countyfips": "48207",
+    "totalpopulation": "5385",
+    "diabetes_crudeprev": "14.9",
+    "diabetes_crude95ci": "(12.8, 17.0)",
+    "diabetes_adjprev": "12.3",
+    "diabetes_adj95ci": "(10.6, 14.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Liberty",
+    "countyfips": "48291",
+    "totalpopulation": "108272",
+    "diabetes_crudeprev": "13.9",
+    "diabetes_crude95ci": "(12.2, 15.9)",
+    "diabetes_adjprev": "13.8",
+    "diabetes_adj95ci": "(12.0, 15.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Coke",
+    "countyfips": "48081",
+    "totalpopulation": "3352",
+    "diabetes_crudeprev": "15.9",
+    "diabetes_crude95ci": "(13.7, 18.3)",
+    "diabetes_adjprev": "11.8",
+    "diabetes_adj95ci": "(10.1, 13.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Lamar",
+    "countyfips": "48277",
+    "totalpopulation": "51127",
+    "diabetes_crudeprev": "14.3",
+    "diabetes_crude95ci": "(12.3, 16.6)",
+    "diabetes_adjprev": "11.9",
+    "diabetes_adj95ci": "(10.2, 13.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Garza",
+    "countyfips": "48169",
+    "totalpopulation": "4517",
+    "diabetes_crudeprev": "14.9",
+    "diabetes_crude95ci": "(13.6, 16.1)",
+    "diabetes_adjprev": "14.5",
+    "diabetes_adj95ci": "(13.3, 15.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Briscoe",
+    "countyfips": "48045",
+    "totalpopulation": "1445",
+    "diabetes_crudeprev": "17.5",
+    "diabetes_crude95ci": "(15.3, 20.2)",
+    "diabetes_adjprev": "13.3",
+    "diabetes_adj95ci": "(11.6, 15.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Sutton",
+    "countyfips": "48435",
+    "totalpopulation": "3221",
+    "diabetes_crudeprev": "17.4",
+    "diabetes_crude95ci": "(15.1, 19.7)",
+    "diabetes_adjprev": "14.0",
+    "diabetes_adj95ci": "(12.1, 15.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Williamson",
+    "countyfips": "48491",
+    "totalpopulation": "697191",
+    "diabetes_crudeprev": "9.8",
+    "diabetes_crude95ci": "( 8.5, 11.3)",
+    "diabetes_adjprev": "9.5",
+    "diabetes_adj95ci": "( 8.2, 10.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Kaufman",
+    "countyfips": "48257",
+    "totalpopulation": "185690",
+    "diabetes_crudeprev": "11.2",
+    "diabetes_crude95ci": "( 9.7, 12.9)",
+    "diabetes_adjprev": "11.5",
+    "diabetes_adj95ci": "( 9.9, 13.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Crockett",
+    "countyfips": "48105",
+    "totalpopulation": "2858",
+    "diabetes_crudeprev": "16.5",
+    "diabetes_crude95ci": "(14.3, 18.6)",
+    "diabetes_adjprev": "13.4",
+    "diabetes_adj95ci": "(11.6, 15.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Maverick",
+    "countyfips": "48323",
+    "totalpopulation": "57762",
+    "diabetes_crudeprev": "17.8",
+    "diabetes_crude95ci": "(15.5, 20.2)",
+    "diabetes_adjprev": "18.1",
+    "diabetes_adj95ci": "(15.7, 20.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Pecos",
+    "countyfips": "48371",
+    "totalpopulation": "14623",
+    "diabetes_crudeprev": "16.5",
+    "diabetes_crude95ci": "(14.3, 18.6)",
+    "diabetes_adjprev": "16.0",
+    "diabetes_adj95ci": "(13.9, 18.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Montague",
+    "countyfips": "48337",
+    "totalpopulation": "21598",
+    "diabetes_crudeprev": "13.4",
+    "diabetes_crude95ci": "(11.5, 15.3)",
+    "diabetes_adjprev": "10.5",
+    "diabetes_adj95ci": "( 9.0, 11.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Moore",
+    "countyfips": "48341",
+    "totalpopulation": "21190",
+    "diabetes_crudeprev": "14.9",
+    "diabetes_crude95ci": "(13.8, 16.2)",
+    "diabetes_adjprev": "14.7",
+    "diabetes_adj95ci": "(13.5, 15.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "San Augustine",
+    "countyfips": "48405",
+    "totalpopulation": "7833",
+    "diabetes_crudeprev": "20.9",
+    "diabetes_crude95ci": "(18.1, 23.7)",
+    "diabetes_adjprev": "15.2",
+    "diabetes_adj95ci": "(13.1, 17.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Henderson",
+    "countyfips": "48213",
+    "totalpopulation": "86158",
+    "diabetes_crudeprev": "14.5",
+    "diabetes_crude95ci": "(12.6, 16.7)",
+    "diabetes_adjprev": "11.3",
+    "diabetes_adj95ci": "( 9.8, 13.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Rusk",
+    "countyfips": "48401",
+    "totalpopulation": "53079",
+    "diabetes_crudeprev": "13.9",
+    "diabetes_crude95ci": "(12.0, 15.9)",
+    "diabetes_adjprev": "12.2",
+    "diabetes_adj95ci": "(10.5, 13.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Bee",
+    "countyfips": "48025",
+    "totalpopulation": "30850",
+    "diabetes_crudeprev": "13.9",
+    "diabetes_crude95ci": "(12.1, 15.8)",
+    "diabetes_adjprev": "14.6",
+    "diabetes_adj95ci": "(12.7, 16.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Howard",
+    "countyfips": "48227",
+    "totalpopulation": "30554",
+    "diabetes_crudeprev": "13.7",
+    "diabetes_crude95ci": "(11.9, 15.7)",
+    "diabetes_adjprev": "13.1",
+    "diabetes_adj95ci": "(11.3, 15.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Cherokee",
+    "countyfips": "48073",
+    "totalpopulation": "52217",
+    "diabetes_crudeprev": "14.7",
+    "diabetes_crude95ci": "(12.6, 16.8)",
+    "diabetes_adjprev": "12.6",
+    "diabetes_adj95ci": "(10.8, 14.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Gonzales",
+    "countyfips": "48177",
+    "totalpopulation": "19930",
+    "diabetes_crudeprev": "16.0",
+    "diabetes_crude95ci": "(14.1, 18.3)",
+    "diabetes_adjprev": "13.7",
+    "diabetes_adj95ci": "(11.9, 15.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Burnet",
+    "countyfips": "48053",
+    "totalpopulation": "53991",
+    "diabetes_crudeprev": "13.5",
+    "diabetes_crude95ci": "(11.5, 15.7)",
+    "diabetes_adjprev": "10.3",
+    "diabetes_adj95ci": "( 8.8, 12.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "La Salle",
+    "countyfips": "48283",
+    "totalpopulation": "6537",
+    "diabetes_crudeprev": "15.5",
+    "diabetes_crude95ci": "(13.4, 17.4)",
+    "diabetes_adjprev": "16.6",
+    "diabetes_adj95ci": "(14.3, 18.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Jim Wells",
+    "countyfips": "48249",
+    "totalpopulation": "38662",
+    "diabetes_crudeprev": "18.0",
+    "diabetes_crude95ci": "(15.5, 20.5)",
+    "diabetes_adjprev": "16.2",
+    "diabetes_adj95ci": "(13.9, 18.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Baylor",
+    "countyfips": "48023",
+    "totalpopulation": "3463",
+    "diabetes_crudeprev": "14.9",
+    "diabetes_crude95ci": "(12.6, 17.2)",
+    "diabetes_adjprev": "11.6",
+    "diabetes_adj95ci": "(10.0, 13.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Fannin",
+    "countyfips": "48147",
+    "totalpopulation": "37571",
+    "diabetes_crudeprev": "13.2",
+    "diabetes_crude95ci": "(11.3, 15.3)",
+    "diabetes_adjprev": "11.4",
+    "diabetes_adj95ci": "( 9.7, 13.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Marion",
+    "countyfips": "48315",
+    "totalpopulation": "9571",
+    "diabetes_crudeprev": "18.1",
+    "diabetes_crude95ci": "(15.9, 20.5)",
+    "diabetes_adjprev": "12.8",
+    "diabetes_adj95ci": "(11.1, 14.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Dallas",
+    "countyfips": "48113",
+    "totalpopulation": "2606358",
+    "diabetes_crudeprev": "12.5",
+    "diabetes_crude95ci": "(10.9, 14.0)",
+    "diabetes_adjprev": "12.5",
+    "diabetes_adj95ci": "(11.0, 14.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Coleman",
+    "countyfips": "48083",
+    "totalpopulation": "7842",
+    "diabetes_crudeprev": "15.4",
+    "diabetes_crude95ci": "(13.3, 17.6)",
+    "diabetes_adjprev": "11.3",
+    "diabetes_adj95ci": "( 9.7, 12.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Val Verde",
+    "countyfips": "48465",
+    "totalpopulation": "47720",
+    "diabetes_crudeprev": "15.6",
+    "diabetes_crude95ci": "(13.5, 17.8)",
+    "diabetes_adjprev": "15.7",
+    "diabetes_adj95ci": "(13.6, 17.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Wichita",
+    "countyfips": "48485",
+    "totalpopulation": "130180",
+    "diabetes_crudeprev": "12.1",
+    "diabetes_crude95ci": "(10.4, 14.0)",
+    "diabetes_adjprev": "11.6",
+    "diabetes_adj95ci": "(10.0, 13.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Nacogdoches",
+    "countyfips": "48347",
+    "totalpopulation": "65375",
+    "diabetes_crudeprev": "13.2",
+    "diabetes_crude95ci": "(11.3, 15.1)",
+    "diabetes_adjprev": "13.0",
+    "diabetes_adj95ci": "(11.1, 14.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hockley",
+    "countyfips": "48219",
+    "totalpopulation": "21460",
+    "diabetes_crudeprev": "14.1",
+    "diabetes_crude95ci": "(12.2, 16.2)",
+    "diabetes_adjprev": "12.9",
+    "diabetes_adj95ci": "(11.1, 14.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Tom Green",
+    "countyfips": "48451",
+    "totalpopulation": "119057",
+    "diabetes_crudeprev": "12.9",
+    "diabetes_crude95ci": "(11.2, 14.8)",
+    "diabetes_adjprev": "11.9",
+    "diabetes_adj95ci": "(10.2, 13.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Ward",
+    "countyfips": "48475",
+    "totalpopulation": "10966",
+    "diabetes_crudeprev": "14.4",
+    "diabetes_crude95ci": "(12.5, 16.4)",
+    "diabetes_adjprev": "13.5",
+    "diabetes_adj95ci": "(11.7, 15.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Ochiltree",
+    "countyfips": "48357",
+    "totalpopulation": "9704",
+    "diabetes_crudeprev": "14.1",
+    "diabetes_crude95ci": "(12.9, 15.4)",
+    "diabetes_adjprev": "13.5",
+    "diabetes_adj95ci": "(12.3, 14.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Brewster",
+    "countyfips": "48043",
+    "totalpopulation": "9513",
+    "diabetes_crudeprev": "12.8",
+    "diabetes_crude95ci": "(11.0, 14.9)",
+    "diabetes_adjprev": "10.5",
+    "diabetes_adj95ci": "( 9.0, 12.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Titus",
+    "countyfips": "48449",
+    "totalpopulation": "31357",
+    "diabetes_crudeprev": "15.6",
+    "diabetes_crude95ci": "(13.5, 17.7)",
+    "diabetes_adjprev": "14.0",
+    "diabetes_adj95ci": "(12.2, 15.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Jasper",
+    "countyfips": "48241",
+    "totalpopulation": "32694",
+    "diabetes_crudeprev": "16.3",
+    "diabetes_crude95ci": "(14.1, 18.7)",
+    "diabetes_adjprev": "12.9",
+    "diabetes_adj95ci": "(11.1, 14.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Grimes",
+    "countyfips": "48185",
+    "totalpopulation": "32384",
+    "diabetes_crudeprev": "14.4",
+    "diabetes_crude95ci": "(12.6, 16.5)",
+    "diabetes_adjprev": "12.3",
+    "diabetes_adj95ci": "(10.7, 14.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Knox",
+    "countyfips": "48275",
+    "totalpopulation": "3302",
+    "diabetes_crudeprev": "15.6",
+    "diabetes_crude95ci": "(14.2, 17.1)",
+    "diabetes_adjprev": "12.5",
+    "diabetes_adj95ci": "(11.4, 13.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Archer",
+    "countyfips": "48009",
+    "totalpopulation": "9029",
+    "diabetes_crudeprev": "12.7",
+    "diabetes_crude95ci": "(11.5, 14.0)",
+    "diabetes_adjprev": "9.9",
+    "diabetes_adj95ci": "( 8.9, 10.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "San Saba",
+    "countyfips": "48411",
+    "totalpopulation": "5845",
+    "diabetes_crudeprev": "14.2",
+    "diabetes_crude95ci": "(12.9, 15.6)",
+    "diabetes_adjprev": "12.0",
+    "diabetes_adj95ci": "(11.0, 13.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "McCulloch",
+    "countyfips": "48307",
+    "totalpopulation": "7452",
+    "diabetes_crudeprev": "15.5",
+    "diabetes_crude95ci": "(13.5, 17.8)",
+    "diabetes_adjprev": "11.9",
+    "diabetes_adj95ci": "(10.2, 13.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Camp",
+    "countyfips": "48063",
+    "totalpopulation": "13000",
+    "diabetes_crudeprev": "16.1",
+    "diabetes_crude95ci": "(14.1, 18.0)",
+    "diabetes_adjprev": "13.7",
+    "diabetes_adj95ci": "(12.0, 15.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Denton",
+    "countyfips": "48121",
+    "totalpopulation": "1007703",
+    "diabetes_crudeprev": "9.9",
+    "diabetes_crude95ci": "( 8.5, 11.3)",
+    "diabetes_adjprev": "9.6",
+    "diabetes_adj95ci": "( 8.3, 11.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Red River",
+    "countyfips": "48387",
+    "totalpopulation": "11678",
+    "diabetes_crudeprev": "16.9",
+    "diabetes_crude95ci": "(14.7, 19.3)",
+    "diabetes_adjprev": "12.5",
+    "diabetes_adj95ci": "(10.8, 14.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Foard",
+    "countyfips": "48155",
+    "totalpopulation": "1079",
+    "diabetes_crudeprev": "18.2",
+    "diabetes_crude95ci": "(15.8, 20.8)",
+    "diabetes_adjprev": "13.6",
+    "diabetes_adj95ci": "(11.8, 15.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Comal",
+    "countyfips": "48091",
+    "totalpopulation": "193928",
+    "diabetes_crudeprev": "11.2",
+    "diabetes_crude95ci": "( 9.7, 13.0)",
+    "diabetes_adjprev": "9.2",
+    "diabetes_adj95ci": "( 8.0, 10.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Sherman",
+    "countyfips": "48421",
+    "totalpopulation": "2678",
+    "diabetes_crudeprev": "12.9",
+    "diabetes_crude95ci": "(11.7, 14.0)",
+    "diabetes_adjprev": "11.2",
+    "diabetes_adj95ci": "(10.2, 12.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Kerr",
+    "countyfips": "48265",
+    "totalpopulation": "53915",
+    "diabetes_crudeprev": "14.7",
+    "diabetes_crude95ci": "(12.5, 17.0)",
+    "diabetes_adjprev": "10.8",
+    "diabetes_adj95ci": "( 9.2, 12.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "San Jacinto",
+    "countyfips": "48407",
+    "totalpopulation": "28936",
+    "diabetes_crudeprev": "16.4",
+    "diabetes_crude95ci": "(14.3, 18.6)",
+    "diabetes_adjprev": "12.7",
+    "diabetes_adj95ci": "(11.0, 14.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Anderson",
+    "countyfips": "48001",
+    "totalpopulation": "57736",
+    "diabetes_crudeprev": "13.9",
+    "diabetes_crude95ci": "(11.9, 15.8)",
+    "diabetes_adjprev": "13.0",
+    "diabetes_adj95ci": "(11.2, 14.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Llano",
+    "countyfips": "48299",
+    "totalpopulation": "22875",
+    "diabetes_crudeprev": "15.7",
+    "diabetes_crude95ci": "(13.4, 18.1)",
+    "diabetes_adjprev": "10.1",
+    "diabetes_adj95ci": "( 8.6, 11.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Collingsworth",
+    "countyfips": "48087",
+    "totalpopulation": "2563",
+    "diabetes_crudeprev": "15.5",
+    "diabetes_crude95ci": "(14.0, 17.2)",
+    "diabetes_adjprev": "12.7",
+    "diabetes_adj95ci": "(11.5, 14.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Real",
+    "countyfips": "48385",
+    "totalpopulation": "2854",
+    "diabetes_crudeprev": "18.3",
+    "diabetes_crude95ci": "(15.8, 20.8)",
+    "diabetes_adjprev": "12.6",
+    "diabetes_adj95ci": "(10.8, 14.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Morris",
+    "countyfips": "48343",
+    "totalpopulation": "12066",
+    "diabetes_crudeprev": "15.9",
+    "diabetes_crude95ci": "(13.8, 18.0)",
+    "diabetes_adjprev": "12.5",
+    "diabetes_adj95ci": "(10.8, 14.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Stephens",
+    "countyfips": "48429",
+    "totalpopulation": "9343",
+    "diabetes_crudeprev": "13.8",
+    "diabetes_crude95ci": "(11.9, 15.8)",
+    "diabetes_adjprev": "11.8",
+    "diabetes_adj95ci": "(10.2, 13.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Walker",
+    "countyfips": "48471",
+    "totalpopulation": "81268",
+    "diabetes_crudeprev": "13.3",
+    "diabetes_crude95ci": "(11.5, 15.2)",
+    "diabetes_adjprev": "13.8",
+    "diabetes_adj95ci": "(11.9, 15.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Upshur",
+    "countyfips": "48459",
+    "totalpopulation": "43281",
+    "diabetes_crudeprev": "13.9",
+    "diabetes_crude95ci": "(12.0, 16.1)",
+    "diabetes_adjprev": "11.4",
+    "diabetes_adj95ci": "( 9.8, 13.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Panola",
+    "countyfips": "48365",
+    "totalpopulation": "22838",
+    "diabetes_crudeprev": "13.8",
+    "diabetes_crude95ci": "(11.9, 15.9)",
+    "diabetes_adjprev": "11.3",
+    "diabetes_adj95ci": "( 9.8, 13.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Carson",
+    "countyfips": "48065",
+    "totalpopulation": "5878",
+    "diabetes_crudeprev": "11.7",
+    "diabetes_crude95ci": "(10.1, 13.5)",
+    "diabetes_adjprev": "9.3",
+    "diabetes_adj95ci": "( 8.0, 10.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Cooke",
+    "countyfips": "48097",
+    "totalpopulation": "43782",
+    "diabetes_crudeprev": "13.0",
+    "diabetes_crude95ci": "(11.2, 15.2)",
+    "diabetes_adjprev": "10.8",
+    "diabetes_adj95ci": "( 9.2, 12.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Robertson",
+    "countyfips": "48395",
+    "totalpopulation": "17267",
+    "diabetes_crudeprev": "15.4",
+    "diabetes_crude95ci": "(13.4, 17.5)",
+    "diabetes_adjprev": "12.3",
+    "diabetes_adj95ci": "(10.7, 14.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "McMullen",
+    "countyfips": "48311",
+    "totalpopulation": "568",
+    "diabetes_crudeprev": "17.8",
+    "diabetes_crude95ci": "(15.5, 20.2)",
+    "diabetes_adjprev": "14.1",
+    "diabetes_adj95ci": "(12.3, 16.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Bell",
+    "countyfips": "48027",
+    "totalpopulation": "393193",
+    "diabetes_crudeprev": "12.6",
+    "diabetes_crude95ci": "(11.1, 14.3)",
+    "diabetes_adjprev": "13.0",
+    "diabetes_adj95ci": "(11.4, 14.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Irion",
+    "countyfips": "48235",
+    "totalpopulation": "1549",
+    "diabetes_crudeprev": "13.4",
+    "diabetes_crude95ci": "(11.9, 15.0)",
+    "diabetes_adjprev": "10.3",
+    "diabetes_adj95ci": "( 9.1, 11.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hardin",
+    "countyfips": "48199",
+    "totalpopulation": "58261",
+    "diabetes_crudeprev": "12.4",
+    "diabetes_crude95ci": "(10.6, 14.2)",
+    "diabetes_adjprev": "10.4",
+    "diabetes_adj95ci": "( 8.9, 12.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Houston",
+    "countyfips": "48225",
+    "totalpopulation": "22066",
+    "diabetes_crudeprev": "16.8",
+    "diabetes_crude95ci": "(14.6, 19.2)",
+    "diabetes_adjprev": "13.5",
+    "diabetes_adj95ci": "(11.7, 15.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Yoakum",
+    "countyfips": "48501",
+    "totalpopulation": "7468",
+    "diabetes_crudeprev": "13.5",
+    "diabetes_crude95ci": "(11.7, 15.6)",
+    "diabetes_adjprev": "13.0",
+    "diabetes_adj95ci": "(11.3, 15.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Leon",
+    "countyfips": "48289",
+    "totalpopulation": "16538",
+    "diabetes_crudeprev": "15.3",
+    "diabetes_crude95ci": "(13.2, 17.5)",
+    "diabetes_adjprev": "11.4",
+    "diabetes_adj95ci": "( 9.8, 13.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hidalgo",
+    "countyfips": "48215",
+    "totalpopulation": "898471",
+    "diabetes_crudeprev": "17.4",
+    "diabetes_crude95ci": "(15.3, 19.6)",
+    "diabetes_adjprev": "17.7",
+    "diabetes_adj95ci": "(15.6, 20.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Swisher",
+    "countyfips": "48437",
+    "totalpopulation": "6955",
+    "diabetes_crudeprev": "16.6",
+    "diabetes_crude95ci": "(14.4, 18.8)",
+    "diabetes_adjprev": "15.5",
+    "diabetes_adj95ci": "(13.4, 17.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Freestone",
+    "countyfips": "48161",
+    "totalpopulation": "20441",
+    "diabetes_crudeprev": "14.7",
+    "diabetes_crude95ci": "(12.7, 17.0)",
+    "diabetes_adjprev": "11.9",
+    "diabetes_adj95ci": "(10.2, 13.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Gillespie",
+    "countyfips": "48171",
+    "totalpopulation": "27733",
+    "diabetes_crudeprev": "13.6",
+    "diabetes_crude95ci": "(11.5, 15.8)",
+    "diabetes_adjprev": "9.5",
+    "diabetes_adj95ci": "( 8.1, 11.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Harris",
+    "countyfips": "48201",
+    "totalpopulation": "4835125",
+    "diabetes_crudeprev": "13.2",
+    "diabetes_crude95ci": "(11.6, 15.0)",
+    "diabetes_adjprev": "13.2",
+    "diabetes_adj95ci": "(11.6, 14.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Van Zandt",
+    "countyfips": "48467",
+    "totalpopulation": "64000",
+    "diabetes_crudeprev": "13.4",
+    "diabetes_crude95ci": "(11.5, 15.5)",
+    "diabetes_adjprev": "10.7",
+    "diabetes_adj95ci": "( 9.2, 12.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Edwards",
+    "countyfips": "48137",
+    "totalpopulation": "1393",
+    "diabetes_crudeprev": "19.3",
+    "diabetes_crude95ci": "(16.6, 22.2)",
+    "diabetes_adjprev": "13.7",
+    "diabetes_adj95ci": "(11.8, 15.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Bosque",
+    "countyfips": "48035",
+    "totalpopulation": "18996",
+    "diabetes_crudeprev": "14.3",
+    "diabetes_crude95ci": "(12.2, 16.6)",
+    "diabetes_adjprev": "10.5",
+    "diabetes_adj95ci": "( 9.1, 12.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Jefferson",
+    "countyfips": "48245",
+    "totalpopulation": "251496",
+    "diabetes_crudeprev": "15.6",
+    "diabetes_crude95ci": "(13.7, 17.8)",
+    "diabetes_adjprev": "14.2",
+    "diabetes_adj95ci": "(12.4, 16.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Lamb",
+    "countyfips": "48279",
+    "totalpopulation": "12711",
+    "diabetes_crudeprev": "16.6",
+    "diabetes_crude95ci": "(14.4, 18.7)",
+    "diabetes_adjprev": "14.3",
+    "diabetes_adj95ci": "(12.4, 16.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Calhoun",
+    "countyfips": "48057",
+    "totalpopulation": "19696",
+    "diabetes_crudeprev": "14.7",
+    "diabetes_crude95ci": "(12.8, 16.7)",
+    "diabetes_adjprev": "12.2",
+    "diabetes_adj95ci": "(10.6, 13.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Polk",
+    "countyfips": "48373",
+    "totalpopulation": "54186",
+    "diabetes_crudeprev": "15.4",
+    "diabetes_crude95ci": "(13.4, 17.9)",
+    "diabetes_adjprev": "12.5",
+    "diabetes_adj95ci": "(10.9, 14.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Crosby",
+    "countyfips": "48107",
+    "totalpopulation": "4917",
+    "diabetes_crudeprev": "17.1",
+    "diabetes_crude95ci": "(15.0, 19.4)",
+    "diabetes_adjprev": "14.6",
+    "diabetes_adj95ci": "(12.7, 16.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Wilson",
+    "countyfips": "48493",
+    "totalpopulation": "54183",
+    "diabetes_crudeprev": "13.1",
+    "diabetes_crude95ci": "(11.4, 15.1)",
+    "diabetes_adjprev": "11.0",
+    "diabetes_adj95ci": "( 9.5, 12.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Sabine",
+    "countyfips": "48403",
+    "totalpopulation": "10106",
+    "diabetes_crudeprev": "16.6",
+    "diabetes_crude95ci": "(14.0, 19.1)",
+    "diabetes_adjprev": "11.1",
+    "diabetes_adj95ci": "( 9.3, 12.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Wheeler",
+    "countyfips": "48483",
+    "totalpopulation": "4804",
+    "diabetes_crudeprev": "14.7",
+    "diabetes_crude95ci": "(13.4, 16.1)",
+    "diabetes_adjprev": "11.8",
+    "diabetes_adj95ci": "(10.8, 12.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Burleson",
+    "countyfips": "48051",
+    "totalpopulation": "19475",
+    "diabetes_crudeprev": "14.0",
+    "diabetes_crude95ci": "(11.9, 16.2)",
+    "diabetes_adjprev": "11.0",
+    "diabetes_adj95ci": "( 9.4, 12.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hall",
+    "countyfips": "48191",
+    "totalpopulation": "2818",
+    "diabetes_crudeprev": "17.5",
+    "diabetes_crude95ci": "(15.3, 20.0)",
+    "diabetes_adjprev": "13.6",
+    "diabetes_adj95ci": "(11.8, 15.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Ector",
+    "countyfips": "48135",
+    "totalpopulation": "164494",
+    "diabetes_crudeprev": "12.8",
+    "diabetes_crude95ci": "(11.1, 14.7)",
+    "diabetes_adjprev": "13.6",
+    "diabetes_adj95ci": "(11.8, 15.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Tyler",
+    "countyfips": "48457",
+    "totalpopulation": "20382",
+    "diabetes_crudeprev": "15.3",
+    "diabetes_crude95ci": "(13.2, 17.6)",
+    "diabetes_adjprev": "12.7",
+    "diabetes_adj95ci": "(10.8, 14.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hill",
+    "countyfips": "48217",
+    "totalpopulation": "38101",
+    "diabetes_crudeprev": "14.2",
+    "diabetes_crude95ci": "(12.2, 16.3)",
+    "diabetes_adjprev": "11.5",
+    "diabetes_adj95ci": "( 9.9, 13.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Bastrop",
+    "countyfips": "48021",
+    "totalpopulation": "110778",
+    "diabetes_crudeprev": "13.4",
+    "diabetes_crude95ci": "(11.6, 15.4)",
+    "diabetes_adjprev": "12.0",
+    "diabetes_adj95ci": "(10.3, 13.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Montgomery",
+    "countyfips": "48339",
+    "totalpopulation": "711354",
+    "diabetes_crudeprev": "11.4",
+    "diabetes_crude95ci": "( 9.7, 13.2)",
+    "diabetes_adjprev": "10.4",
+    "diabetes_adj95ci": "( 8.9, 12.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Gray",
+    "countyfips": "48179",
+    "totalpopulation": "20916",
+    "diabetes_crudeprev": "13.9",
+    "diabetes_crude95ci": "(11.8, 15.9)",
+    "diabetes_adjprev": "12.4",
+    "diabetes_adj95ci": "(10.6, 14.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Lampasas",
+    "countyfips": "48281",
+    "totalpopulation": "23262",
+    "diabetes_crudeprev": "14.0",
+    "diabetes_crude95ci": "(12.1, 16.2)",
+    "diabetes_adjprev": "11.0",
+    "diabetes_adj95ci": "( 9.5, 12.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Karnes",
+    "countyfips": "48255",
+    "totalpopulation": "15018",
+    "diabetes_crudeprev": "14.0",
+    "diabetes_crude95ci": "(12.1, 15.9)",
+    "diabetes_adjprev": "14.4",
+    "diabetes_adj95ci": "(12.4, 16.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hays",
+    "countyfips": "48209",
+    "totalpopulation": "280486",
+    "diabetes_crudeprev": "10.2",
+    "diabetes_crude95ci": "( 8.8, 11.8)",
+    "diabetes_adjprev": "10.8",
+    "diabetes_adj95ci": "( 9.3, 12.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Matagorda",
+    "countyfips": "48321",
+    "totalpopulation": "36359",
+    "diabetes_crudeprev": "16.4",
+    "diabetes_crude95ci": "(14.3, 18.6)",
+    "diabetes_adjprev": "13.9",
+    "diabetes_adj95ci": "(12.1, 15.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Cochran",
+    "countyfips": "48079",
+    "totalpopulation": "2509",
+    "diabetes_crudeprev": "18.6",
+    "diabetes_crude95ci": "(16.4, 21.1)",
+    "diabetes_adjprev": "17.1",
+    "diabetes_adj95ci": "(15.1, 19.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Falls",
+    "countyfips": "48145",
+    "totalpopulation": "17286",
+    "diabetes_crudeprev": "16.1",
+    "diabetes_crude95ci": "(14.1, 18.4)",
+    "diabetes_adjprev": "13.8",
+    "diabetes_adj95ci": "(12.1, 15.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Dawson",
+    "countyfips": "48115",
+    "totalpopulation": "12004",
+    "diabetes_crudeprev": "15.3",
+    "diabetes_crude95ci": "(13.3, 17.5)",
+    "diabetes_adjprev": "15.3",
+    "diabetes_adj95ci": "(13.3, 17.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Collin",
+    "countyfips": "48085",
+    "totalpopulation": "1195359",
+    "diabetes_crudeprev": "9.5",
+    "diabetes_crude95ci": "( 8.2, 10.9)",
+    "diabetes_adjprev": "9.1",
+    "diabetes_adj95ci": "( 7.8, 10.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Reagan",
+    "countyfips": "48383",
+    "totalpopulation": "3141",
+    "diabetes_crudeprev": "14.5",
+    "diabetes_crude95ci": "(13.1, 15.8)",
+    "diabetes_adjprev": "13.7",
+    "diabetes_adj95ci": "(12.4, 14.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Kleberg",
+    "countyfips": "48273",
+    "totalpopulation": "30069",
+    "diabetes_crudeprev": "14.0",
+    "diabetes_crude95ci": "(12.2, 15.9)",
+    "diabetes_adjprev": "15.4",
+    "diabetes_adj95ci": "(13.4, 17.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Dimmit",
+    "countyfips": "48127",
+    "totalpopulation": "8257",
+    "diabetes_crudeprev": "23.4",
+    "diabetes_crude95ci": "(20.7, 26.2)",
+    "diabetes_adjprev": "21.5",
+    "diabetes_adj95ci": "(18.9, 24.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Shackelford",
+    "countyfips": "48417",
+    "totalpopulation": "3229",
+    "diabetes_crudeprev": "12.3",
+    "diabetes_crude95ci": "(10.4, 14.2)",
+    "diabetes_adjprev": "9.5",
+    "diabetes_adj95ci": "( 8.1, 11.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "McLennan",
+    "countyfips": "48309",
+    "totalpopulation": "268583",
+    "diabetes_crudeprev": "12.5",
+    "diabetes_crude95ci": "(10.9, 14.2)",
+    "diabetes_adjprev": "12.2",
+    "diabetes_adj95ci": "(10.6, 13.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Milam",
+    "countyfips": "48331",
+    "totalpopulation": "25951",
+    "diabetes_crudeprev": "14.9",
+    "diabetes_crude95ci": "(12.9, 17.1)",
+    "diabetes_adjprev": "11.9",
+    "diabetes_adj95ci": "(10.3, 13.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Roberts",
+    "countyfips": "48393",
+    "totalpopulation": "840",
+    "diabetes_crudeprev": "11.6",
+    "diabetes_crude95ci": "( 9.8, 13.5)",
+    "diabetes_adjprev": "8.9",
+    "diabetes_adj95ci": "( 7.6, 10.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Kent",
+    "countyfips": "48263",
+    "totalpopulation": "734",
+    "diabetes_crudeprev": "12.9",
+    "diabetes_crude95ci": "(11.0, 15.0)",
+    "diabetes_adjprev": "9.3",
+    "diabetes_adj95ci": "( 7.9, 10.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Throckmorton",
+    "countyfips": "48447",
+    "totalpopulation": "1526",
+    "diabetes_crudeprev": "15.4",
+    "diabetes_crude95ci": "(13.8, 17.0)",
+    "diabetes_adjprev": "11.0",
+    "diabetes_adj95ci": "( 9.9, 12.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Colorado",
+    "countyfips": "48089",
+    "totalpopulation": "21117",
+    "diabetes_crudeprev": "14.9",
+    "diabetes_crude95ci": "(12.8, 16.9)",
+    "diabetes_adjprev": "11.6",
+    "diabetes_adj95ci": "( 9.9, 13.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Midland",
+    "countyfips": "48329",
+    "totalpopulation": "177108",
+    "diabetes_crudeprev": "10.8",
+    "diabetes_crude95ci": "( 9.3, 12.3)",
+    "diabetes_adjprev": "11.4",
+    "diabetes_adj95ci": "( 9.8, 13.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Nolan",
+    "countyfips": "48353",
+    "totalpopulation": "14306",
+    "diabetes_crudeprev": "16.5",
+    "diabetes_crude95ci": "(14.3, 18.9)",
+    "diabetes_adjprev": "14.0",
+    "diabetes_adj95ci": "(12.1, 16.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Nueces",
+    "countyfips": "48355",
+    "totalpopulation": "352289",
+    "diabetes_crudeprev": "15.8",
+    "diabetes_crude95ci": "(14.0, 17.7)",
+    "diabetes_adjprev": "14.5",
+    "diabetes_adj95ci": "(12.7, 16.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Brazos",
+    "countyfips": "48041",
+    "totalpopulation": "244703",
+    "diabetes_crudeprev": "9.7",
+    "diabetes_crude95ci": "( 8.4, 11.3)",
+    "diabetes_adjprev": "12.5",
+    "diabetes_adj95ci": "(10.8, 14.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Fayette",
+    "countyfips": "48149",
+    "totalpopulation": "25474",
+    "diabetes_crudeprev": "13.8",
+    "diabetes_crude95ci": "(11.8, 16.0)",
+    "diabetes_adjprev": "10.1",
+    "diabetes_adj95ci": "( 8.6, 11.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Lubbock",
+    "countyfips": "48303",
+    "totalpopulation": "320940",
+    "diabetes_crudeprev": "11.4",
+    "diabetes_crude95ci": "( 9.8, 13.0)",
+    "diabetes_adjprev": "12.0",
+    "diabetes_adj95ci": "(10.4, 13.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Cass",
+    "countyfips": "48067",
+    "totalpopulation": "28659",
+    "diabetes_crudeprev": "15.7",
+    "diabetes_crude95ci": "(13.6, 18.0)",
+    "diabetes_adjprev": "12.0",
+    "diabetes_adj95ci": "(10.4, 13.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Bowie",
+    "countyfips": "48037",
+    "totalpopulation": "91687",
+    "diabetes_crudeprev": "13.8",
+    "diabetes_crude95ci": "(11.9, 15.8)",
+    "diabetes_adjprev": "12.1",
+    "diabetes_adj95ci": "(10.4, 13.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Potter",
+    "countyfips": "48375",
+    "totalpopulation": "114647",
+    "diabetes_crudeprev": "15.3",
+    "diabetes_crude95ci": "(13.3, 17.4)",
+    "diabetes_adjprev": "14.4",
+    "diabetes_adj95ci": "(12.6, 16.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Culberson",
+    "countyfips": "48109",
+    "totalpopulation": "2196",
+    "diabetes_crudeprev": "19.3",
+    "diabetes_crude95ci": "(16.7, 21.8)",
+    "diabetes_adjprev": "16.2",
+    "diabetes_adj95ci": "(13.9, 18.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Rockwall",
+    "countyfips": "48397",
+    "totalpopulation": "131307",
+    "diabetes_crudeprev": "9.4",
+    "diabetes_crude95ci": "( 8.0, 10.8)",
+    "diabetes_adjprev": "8.7",
+    "diabetes_adj95ci": "( 7.4, 10.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "San Patricio",
+    "countyfips": "48409",
+    "totalpopulation": "70660",
+    "diabetes_crudeprev": "15.4",
+    "diabetes_crude95ci": "(13.4, 17.5)",
+    "diabetes_adjprev": "13.9",
+    "diabetes_adj95ci": "(12.1, 15.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Delta",
+    "countyfips": "48119",
+    "totalpopulation": "5520",
+    "diabetes_crudeprev": "13.7",
+    "diabetes_crude95ci": "(12.5, 14.9)",
+    "diabetes_adjprev": "10.9",
+    "diabetes_adj95ci": "(10.0, 11.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Waller",
+    "countyfips": "48473",
+    "totalpopulation": "63553",
+    "diabetes_crudeprev": "11.1",
+    "diabetes_crude95ci": "( 9.6, 12.7)",
+    "diabetes_adjprev": "12.2",
+    "diabetes_adj95ci": "(10.6, 14.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Glasscock",
+    "countyfips": "48173",
+    "totalpopulation": "1141",
+    "diabetes_crudeprev": "10.9",
+    "diabetes_crude95ci": "( 9.6, 12.1)",
+    "diabetes_adjprev": "9.9",
+    "diabetes_adj95ci": "( 8.7, 11.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Tarrant",
+    "countyfips": "48439",
+    "totalpopulation": "2182947",
+    "diabetes_crudeprev": "11.7",
+    "diabetes_crude95ci": "(10.2, 13.3)",
+    "diabetes_adjprev": "11.4",
+    "diabetes_adj95ci": "( 9.9, 13.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Harrison",
+    "countyfips": "48203",
+    "totalpopulation": "70895",
+    "diabetes_crudeprev": "13.8",
+    "diabetes_crude95ci": "(12.0, 15.9)",
+    "diabetes_adjprev": "11.9",
+    "diabetes_adj95ci": "(10.3, 13.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Motley",
+    "countyfips": "48345",
+    "totalpopulation": "1020",
+    "diabetes_crudeprev": "14.7",
+    "diabetes_crude95ci": "(13.2, 16.2)",
+    "diabetes_adjprev": "10.5",
+    "diabetes_adj95ci": "( 9.5, 11.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Kimble",
+    "countyfips": "48267",
+    "totalpopulation": "4442",
+    "diabetes_crudeprev": "16.6",
+    "diabetes_crude95ci": "(14.2, 19.0)",
+    "diabetes_adjprev": "11.7",
+    "diabetes_adj95ci": "(10.0, 13.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Jack",
+    "countyfips": "48237",
+    "totalpopulation": "8875",
+    "diabetes_crudeprev": "13.4",
+    "diabetes_crude95ci": "(11.5, 15.4)",
+    "diabetes_adjprev": "11.8",
+    "diabetes_adj95ci": "(10.1, 13.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Young",
+    "countyfips": "48503",
+    "totalpopulation": "18124",
+    "diabetes_crudeprev": "13.4",
+    "diabetes_crude95ci": "(11.4, 15.5)",
+    "diabetes_adjprev": "10.8",
+    "diabetes_adj95ci": "( 9.2, 12.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Eastland",
+    "countyfips": "48133",
+    "totalpopulation": "18037",
+    "diabetes_crudeprev": "14.1",
+    "diabetes_crude95ci": "(12.1, 16.2)",
+    "diabetes_adjprev": "11.4",
+    "diabetes_adj95ci": "( 9.8, 13.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Parker",
+    "countyfips": "48367",
+    "totalpopulation": "173494",
+    "diabetes_crudeprev": "10.7",
+    "diabetes_crude95ci": "( 9.1, 12.5)",
+    "diabetes_adjprev": "9.2",
+    "diabetes_adj95ci": "( 7.8, 10.7)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Ellis",
+    "countyfips": "48139",
+    "totalpopulation": "222829",
+    "diabetes_crudeprev": "11.6",
+    "diabetes_crude95ci": "(10.0, 13.4)",
+    "diabetes_adjprev": "10.9",
+    "diabetes_adj95ci": "( 9.4, 12.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Callahan",
+    "countyfips": "48059",
+    "totalpopulation": "14374",
+    "diabetes_crudeprev": "13.2",
+    "diabetes_crude95ci": "(11.2, 15.3)",
+    "diabetes_adjprev": "10.2",
+    "diabetes_adj95ci": "( 8.7, 11.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Austin",
+    "countyfips": "48015",
+    "totalpopulation": "31677",
+    "diabetes_crudeprev": "14.7",
+    "diabetes_crude95ci": "(12.8, 16.9)",
+    "diabetes_adjprev": "11.8",
+    "diabetes_adj95ci": "(10.2, 13.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Galveston",
+    "countyfips": "48167",
+    "totalpopulation": "361744",
+    "diabetes_crudeprev": "12.3",
+    "diabetes_crude95ci": "(10.7, 14.0)",
+    "diabetes_adjprev": "10.8",
+    "diabetes_adj95ci": "( 9.3, 12.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Wharton",
+    "countyfips": "48481",
+    "totalpopulation": "41739",
+    "diabetes_crudeprev": "15.0",
+    "diabetes_crude95ci": "(13.2, 17.3)",
+    "diabetes_adjprev": "12.9",
+    "diabetes_adj95ci": "(11.2, 14.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Andrews",
+    "countyfips": "48003",
+    "totalpopulation": "18664",
+    "diabetes_crudeprev": "12.7",
+    "diabetes_crude95ci": "(10.9, 14.6)",
+    "diabetes_adjprev": "12.9",
+    "diabetes_adj95ci": "(11.2, 14.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Jim Hogg",
+    "countyfips": "48247",
+    "totalpopulation": "4720",
+    "diabetes_crudeprev": "22.8",
+    "diabetes_crude95ci": "(20.9, 24.9)",
+    "diabetes_adjprev": "20.2",
+    "diabetes_adj95ci": "(18.4, 22.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Crane",
+    "countyfips": "48103",
+    "totalpopulation": "4574",
+    "diabetes_crudeprev": "15.0",
+    "diabetes_crude95ci": "(13.0, 17.1)",
+    "diabetes_adjprev": "14.5",
+    "diabetes_adj95ci": "(12.5, 16.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Madison",
+    "countyfips": "48313",
+    "totalpopulation": "13742",
+    "diabetes_crudeprev": "13.1",
+    "diabetes_crude95ci": "(11.3, 14.9)",
+    "diabetes_adjprev": "12.9",
+    "diabetes_adj95ci": "(11.2, 14.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Sterling",
+    "countyfips": "48431",
+    "totalpopulation": "1397",
+    "diabetes_crudeprev": "10.5",
+    "diabetes_crude95ci": "( 9.0, 12.2)",
+    "diabetes_adjprev": "9.4",
+    "diabetes_adj95ci": "( 8.0, 11.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Refugio",
+    "countyfips": "48391",
+    "totalpopulation": "6666",
+    "diabetes_crudeprev": "17.6",
+    "diabetes_crude95ci": "(15.5, 19.9)",
+    "diabetes_adjprev": "14.0",
+    "diabetes_adj95ci": "(12.2, 15.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hardeman",
+    "countyfips": "48197",
+    "totalpopulation": "3490",
+    "diabetes_crudeprev": "15.2",
+    "diabetes_crude95ci": "(13.2, 17.2)",
+    "diabetes_adjprev": "11.9",
+    "diabetes_adj95ci": "(10.3, 13.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Dickens",
+    "countyfips": "48125",
+    "totalpopulation": "1711",
+    "diabetes_crudeprev": "16.7",
+    "diabetes_crude95ci": "(14.4, 19.1)",
+    "diabetes_adjprev": "12.2",
+    "diabetes_adj95ci": "(10.5, 14.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Mason",
+    "countyfips": "48319",
+    "totalpopulation": "3931",
+    "diabetes_crudeprev": "14.4",
+    "diabetes_crude95ci": "(12.8, 16.0)",
+    "diabetes_adjprev": "9.9",
+    "diabetes_adj95ci": "( 8.8, 10.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Bandera",
+    "countyfips": "48019",
+    "totalpopulation": "22637",
+    "diabetes_crudeprev": "15.7",
+    "diabetes_crude95ci": "(13.6, 18.0)",
+    "diabetes_adjprev": "10.8",
+    "diabetes_adj95ci": "( 9.4, 12.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Franklin",
+    "countyfips": "48159",
+    "totalpopulation": "10735",
+    "diabetes_crudeprev": "13.0",
+    "diabetes_crude95ci": "(11.1, 15.0)",
+    "diabetes_adjprev": "9.9",
+    "diabetes_adj95ci": "( 8.5, 11.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Somervell",
+    "countyfips": "48425",
+    "totalpopulation": "9888",
+    "diabetes_crudeprev": "12.3",
+    "diabetes_crude95ci": "(10.5, 14.3)",
+    "diabetes_adjprev": "9.8",
+    "diabetes_adj95ci": "( 8.4, 11.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Willacy",
+    "countyfips": "48489",
+    "totalpopulation": "20037",
+    "diabetes_crudeprev": "18.8",
+    "diabetes_crude95ci": "(16.3, 21.3)",
+    "diabetes_adjprev": "19.0",
+    "diabetes_adj95ci": "(16.5, 21.6)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hopkins",
+    "countyfips": "48223",
+    "totalpopulation": "38172",
+    "diabetes_crudeprev": "13.4",
+    "diabetes_crude95ci": "(11.5, 15.4)",
+    "diabetes_adjprev": "11.2",
+    "diabetes_adj95ci": "( 9.7, 12.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Trinity",
+    "countyfips": "48455",
+    "totalpopulation": "14228",
+    "diabetes_crudeprev": "16.4",
+    "diabetes_crude95ci": "(14.2, 18.7)",
+    "diabetes_adjprev": "11.8",
+    "diabetes_adj95ci": "(10.1, 13.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Terry",
+    "countyfips": "48445",
+    "totalpopulation": "11547",
+    "diabetes_crudeprev": "16.4",
+    "diabetes_crude95ci": "(14.3, 18.5)",
+    "diabetes_adjprev": "15.1",
+    "diabetes_adj95ci": "(13.2, 17.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Concho",
+    "countyfips": "48095",
+    "totalpopulation": "3297",
+    "diabetes_crudeprev": "14.2",
+    "diabetes_crude95ci": "(12.9, 15.6)",
+    "diabetes_adjprev": "12.7",
+    "diabetes_adj95ci": "(11.6, 13.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Orange",
+    "countyfips": "48361",
+    "totalpopulation": "85722",
+    "diabetes_crudeprev": "12.4",
+    "diabetes_crude95ci": "(10.7, 14.2)",
+    "diabetes_adjprev": "10.9",
+    "diabetes_adj95ci": "( 9.4, 12.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Randall",
+    "countyfips": "48381",
+    "totalpopulation": "148255",
+    "diabetes_crudeprev": "10.8",
+    "diabetes_crude95ci": "( 9.2, 12.4)",
+    "diabetes_adjprev": "10.0",
+    "diabetes_adj95ci": "( 8.5, 11.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hale",
+    "countyfips": "48189",
+    "totalpopulation": "31761",
+    "diabetes_crudeprev": "15.6",
+    "diabetes_crude95ci": "(13.6, 17.7)",
+    "diabetes_adjprev": "15.0",
+    "diabetes_adj95ci": "(13.0, 17.1)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Lee",
+    "countyfips": "48287",
+    "totalpopulation": "18240",
+    "diabetes_crudeprev": "15.4",
+    "diabetes_crude95ci": "(13.3, 17.7)",
+    "diabetes_adjprev": "12.4",
+    "diabetes_adj95ci": "(10.7, 14.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Jones",
+    "countyfips": "48253",
+    "totalpopulation": "20381",
+    "diabetes_crudeprev": "13.0",
+    "diabetes_crude95ci": "(11.2, 14.9)",
+    "diabetes_adjprev": "12.9",
+    "diabetes_adj95ci": "(11.1, 14.8)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Scurry",
+    "countyfips": "48415",
+    "totalpopulation": "16212",
+    "diabetes_crudeprev": "13.6",
+    "diabetes_crude95ci": "(11.8, 15.5)",
+    "diabetes_adjprev": "12.4",
+    "diabetes_adj95ci": "(10.7, 14.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Brown",
+    "countyfips": "48049",
+    "totalpopulation": "38709",
+    "diabetes_crudeprev": "14.0",
+    "diabetes_crude95ci": "(12.3, 15.7)",
+    "diabetes_adjprev": "11.4",
+    "diabetes_adj95ci": "(10.0, 12.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Fisher",
+    "countyfips": "48151",
+    "totalpopulation": "3612",
+    "diabetes_crudeprev": "14.5",
+    "diabetes_crude95ci": "(12.6, 16.5)",
+    "diabetes_adjprev": "10.8",
+    "diabetes_adj95ci": "( 9.4, 12.4)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Deaf Smith",
+    "countyfips": "48117",
+    "totalpopulation": "18347",
+    "diabetes_crudeprev": "16.4",
+    "diabetes_crude95ci": "(14.3, 18.8)",
+    "diabetes_adjprev": "16.0",
+    "diabetes_adj95ci": "(13.9, 18.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Bexar",
+    "countyfips": "48029",
+    "totalpopulation": "2087679",
+    "diabetes_crudeprev": "13.9",
+    "diabetes_crude95ci": "(12.2, 15.6)",
+    "diabetes_adjprev": "13.8",
+    "diabetes_adj95ci": "(12.1, 15.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Menard",
+    "countyfips": "48327",
+    "totalpopulation": "1958",
+    "diabetes_crudeprev": "17.6",
+    "diabetes_crude95ci": "(15.2, 20.2)",
+    "diabetes_adjprev": "12.1",
+    "diabetes_adj95ci": "(10.4, 13.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Newton",
+    "countyfips": "48351",
+    "totalpopulation": "12039",
+    "diabetes_crudeprev": "18.6",
+    "diabetes_crude95ci": "(16.2, 21.0)",
+    "diabetes_adjprev": "14.1",
+    "diabetes_adj95ci": "(12.2, 16.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Upton",
+    "countyfips": "48461",
+    "totalpopulation": "3109",
+    "diabetes_crudeprev": "16.6",
+    "diabetes_crude95ci": "(15.2, 17.9)",
+    "diabetes_adjprev": "14.8",
+    "diabetes_adj95ci": "(13.6, 16.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Lipscomb",
+    "countyfips": "48295",
+    "totalpopulation": "2906",
+    "diabetes_crudeprev": "14.8",
+    "diabetes_crude95ci": "(12.7, 17.1)",
+    "diabetes_adjprev": "12.1",
+    "diabetes_adj95ci": "(10.4, 14.0)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Hunt",
+    "countyfips": "48231",
+    "totalpopulation": "113347",
+    "diabetes_crudeprev": "12.3",
+    "diabetes_crude95ci": "(10.5, 14.1)",
+    "diabetes_adjprev": "11.2",
+    "diabetes_adj95ci": "( 9.5, 12.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Clay",
+    "countyfips": "48077",
+    "totalpopulation": "10738",
+    "diabetes_crudeprev": "13.2",
+    "diabetes_crude95ci": "(11.2, 15.2)",
+    "diabetes_adjprev": "9.8",
+    "diabetes_adj95ci": "( 8.3, 11.3)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Mills",
+    "countyfips": "48333",
+    "totalpopulation": "4548",
+    "diabetes_crudeprev": "14.1",
+    "diabetes_crude95ci": "(11.8, 16.3)",
+    "diabetes_adjprev": "9.9",
+    "diabetes_adj95ci": "( 8.3, 11.5)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Grayson",
+    "countyfips": "48181",
+    "totalpopulation": "146907",
+    "diabetes_crudeprev": "12.5",
+    "diabetes_crude95ci": "(10.8, 14.4)",
+    "diabetes_adjprev": "10.6",
+    "diabetes_adj95ci": "( 9.1, 12.2)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Kenedy",
+    "countyfips": "48261",
+    "totalpopulation": "343",
+    "diabetes_crudeprev": "18.5",
+    "diabetes_crude95ci": "(16.1, 21.0)",
+    "diabetes_adjprev": "14.9",
+    "diabetes_adj95ci": "(12.8, 16.9)"
+  },
+  {
+    "stateabbr": "TX",
+    "countyname": "Winkler",
+    "countyfips": "48495",
+    "totalpopulation": "7414",
+    "diabetes_crudeprev": "14.1",
+    "diabetes_crude95ci": "(12.3, 16.2)",
+    "diabetes_adjprev": "13.3",
+    "diabetes_adj95ci": "(11.5, 15.2)"
+  }
+]
