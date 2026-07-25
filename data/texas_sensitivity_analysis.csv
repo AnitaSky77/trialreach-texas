@@ -1,0 +1,76 @@
+scenario,rank,county_fips,county_name,diabetes_prevalence,nearest_trial_distance_miles,prevalence_percentile,distance_percentile,priority_score
+Baseline,1,48377,Presidio,22.2,180.4,98.8,99.2,99.0
+Baseline,2,48243,Jeff Davis,21.2,156.3,98.4,97.6,98.0
+Baseline,3,48109,Culberson,19.3,117.9,96.0,93.7,94.8
+Baseline,4,48389,Reeves,17.6,167.3,89.7,98.4,94.0
+Baseline,5,48155,Foard,18.2,105.5,92.5,91.7,92.1
+Baseline,6,48101,Cottle,18.8,96.8,94.8,88.9,91.9
+Baseline,7,48507,Zavala,22.6,85.6,99.2,83.7,91.5
+Baseline,8,48371,Pecos,16.5,199.8,82.1,99.6,90.9
+Baseline,9,48405,San Augustine,20.9,83.5,98.0,82.5,90.3
+Baseline,10,48323,Maverick,17.8,98.5,90.9,89.7,90.3
+Baseline,11,48461,Upton,16.6,153.0,83.7,96.8,90.3
+Baseline,12,48105,Crockett,16.5,143.2,82.1,96.4,89.3
+Baseline,13,48487,Wilbarger,16.5,116.3,82.1,93.3,87.7
+Baseline,14,48435,Sutton,17.4,89.0,88.1,86.5,87.3
+Baseline,15,48311,McMullen,17.8,74.2,90.9,80.2,85.5
+Prevalence emphasis,1,48377,Presidio,22.2,180.4,98.8,99.2,98.9
+Prevalence emphasis,2,48243,Jeff Davis,21.2,156.3,98.4,97.6,98.2
+Prevalence emphasis,3,48109,Culberson,19.3,117.9,96.0,93.7,95.3
+Prevalence emphasis,4,48507,Zavala,22.6,85.6,99.2,83.7,94.6
+Prevalence emphasis,5,48405,San Augustine,20.9,83.5,98.0,82.5,93.4
+Prevalence emphasis,6,48101,Cottle,18.8,96.8,94.8,88.9,93.1
+Prevalence emphasis,7,48389,Reeves,17.6,167.3,89.7,98.4,92.3
+Prevalence emphasis,8,48155,Foard,18.2,105.5,92.5,91.7,92.2
+Prevalence emphasis,9,48323,Maverick,17.8,98.5,90.9,89.7,90.5
+Prevalence emphasis,10,48311,McMullen,17.8,74.2,90.9,80.2,87.7
+Prevalence emphasis,11,48461,Upton,16.6,153.0,83.7,96.8,87.7
+Prevalence emphasis,12,48435,Sutton,17.4,89.0,88.1,86.5,87.6
+Prevalence emphasis,13,48371,Pecos,16.5,199.8,82.1,99.6,87.4
+Prevalence emphasis,14,48191,Hall,17.5,80.8,88.9,81.7,86.7
+Prevalence emphasis,15,48105,Crockett,16.5,143.2,82.1,96.4,86.4
+Distance emphasis,1,48377,Presidio,22.2,180.4,98.8,99.2,99.1
+Distance emphasis,2,48243,Jeff Davis,21.2,156.3,98.4,97.6,97.9
+Distance emphasis,3,48389,Reeves,17.6,167.3,89.7,98.4,95.8
+Distance emphasis,4,48109,Culberson,19.3,117.9,96.0,93.7,94.4
+Distance emphasis,5,48371,Pecos,16.5,199.8,82.1,99.6,94.4
+Distance emphasis,6,48461,Upton,16.6,153.0,83.7,96.8,92.9
+Distance emphasis,7,48105,Crockett,16.5,143.2,82.1,96.4,92.1
+Distance emphasis,8,48155,Foard,18.2,105.5,92.5,91.7,91.9
+Distance emphasis,9,48101,Cottle,18.8,96.8,94.8,88.9,90.7
+Distance emphasis,10,48323,Maverick,17.8,98.5,90.9,89.7,90.0
+Distance emphasis,11,48487,Wilbarger,16.5,116.3,82.1,93.3,89.9
+Distance emphasis,12,48507,Zavala,22.6,85.6,99.2,83.7,88.4
+Distance emphasis,13,48405,San Augustine,20.9,83.5,98.0,82.5,87.2
+Distance emphasis,14,48435,Sutton,17.4,89.0,88.1,86.5,87.0
+Distance emphasis,15,48269,King,16.8,86.2,86.1,84.5,85.0
+Lower threshold,1,48377,Presidio,22.2,180.4,98.8,99.2,99.0
+Lower threshold,2,48243,Jeff Davis,21.2,156.3,98.4,97.6,98.0
+Lower threshold,3,48109,Culberson,19.3,117.9,96.0,93.7,94.8
+Lower threshold,4,48389,Reeves,17.6,167.3,89.7,98.4,94.0
+Lower threshold,5,48155,Foard,18.2,105.5,92.5,91.7,92.1
+Lower threshold,6,48101,Cottle,18.8,96.8,94.8,88.9,91.9
+Lower threshold,7,48507,Zavala,22.6,85.6,99.2,83.7,91.5
+Lower threshold,8,48371,Pecos,16.5,199.8,82.1,99.6,90.9
+Lower threshold,9,48405,San Augustine,20.9,83.5,98.0,82.5,90.3
+Lower threshold,10,48323,Maverick,17.8,98.5,90.9,89.7,90.3
+Lower threshold,11,48461,Upton,16.6,153.0,83.7,96.8,90.3
+Lower threshold,12,48105,Crockett,16.5,143.2,82.1,96.4,89.3
+Lower threshold,13,48487,Wilbarger,16.5,116.3,82.1,93.3,87.7
+Lower threshold,14,48435,Sutton,17.4,89.0,88.1,86.5,87.3
+Lower threshold,15,48311,McMullen,17.8,74.2,90.9,80.2,85.5
+Higher threshold,1,48377,Presidio,22.2,180.4,98.8,99.2,99.0
+Higher threshold,2,48243,Jeff Davis,21.2,156.3,98.4,97.6,98.0
+Higher threshold,3,48109,Culberson,19.3,117.9,96.0,93.7,94.8
+Higher threshold,4,48389,Reeves,17.6,167.3,89.7,98.4,94.0
+Higher threshold,5,48155,Foard,18.2,105.5,92.5,91.7,92.1
+Higher threshold,6,48101,Cottle,18.8,96.8,94.8,88.9,91.9
+Higher threshold,7,48507,Zavala,22.6,85.6,99.2,83.7,91.5
+Higher threshold,8,48371,Pecos,16.5,199.8,82.1,99.6,90.9
+Higher threshold,9,48405,San Augustine,20.9,83.5,98.0,82.5,90.3
+Higher threshold,10,48323,Maverick,17.8,98.5,90.9,89.7,90.3
+Higher threshold,11,48461,Upton,16.6,153.0,83.7,96.8,90.3
+Higher threshold,12,48105,Crockett,16.5,143.2,82.1,96.4,89.3
+Higher threshold,13,48487,Wilbarger,16.5,116.3,82.1,93.3,87.7
+Higher threshold,14,48435,Sutton,17.4,89.0,88.1,86.5,87.3
+Higher threshold,15,48311,McMullen,17.8,74.2,90.9,80.2,85.5

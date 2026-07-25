@@ -178,6 +178,50 @@ The results identify Texas communities where high diabetes burden overlaps with 
 - Data-quality assessment
 - Data visualization
 
+## Sensitivity analysis
+
+The county priority ranking was tested under five alternative scoring choices:
+
+- Baseline weighting: 50% diabetes prevalence and 50% distance
+- Prevalence emphasis: 70% prevalence and 30% distance
+- Distance emphasis: 30% prevalence and 70% distance
+- Lower priority threshold
+- Higher priority threshold
+
+The top-15 ranking was stable across these choices. Four scenarios retained all 15 baseline counties. The prevalence-emphasis and distance-emphasis scenarios each retained 14 of the baseline top 15.
+
+These results suggest the main priority-county findings are not dependent on one weighting choice.
+
+## Socioeconomic analysis
+
+County-level socioeconomic measures were obtained from the 2024 American Community Survey five-year estimates.
+
+The analysis included:
+
+- Median household income
+- Poverty percentage
+- Percentage of households without a vehicle
+
+Counties with open trial sites had a median household income of approximately $71,938. Counties without open trial sites had a lower median household income of approximately $63,429.
+
+Mean poverty was 14.3% among counties with open sites and 15.0% among counties without open sites.
+
+The correlation between median household income and distance to the nearest open trial site was -0.26. This indicates a modest association in which lower-income counties tended to be farther from open trial sites.
+
+Poverty and vehicle-access measures had weak correlations with distance. These results describe associations and do not establish causation.
+
+## Additional figures
+
+### Household income and trial-site distance
+
+![Household income and trial-site distance](reports/figures/income_vs_trial_distance.png)
+
+### Socioeconomic comparison by open-site availability
+
+![Socioeconomic comparison](reports/figures/socioeconomic_open_site_comparison.png)
+
 ## Project status
 
-This repository contains a completed descriptive geographic-access analysis. Future work includes driving-time estimates, county-boundary maps, rurality measures, socioeconomic variables, and sensitivity analyses using alternative priority-score definitions.
+This repository contains a completed descriptive analysis of county-level diabetes burden, geographic access to open Type 2 diabetes clinical trial sites, socioeconomic differences, and priority-ranking sensitivity across Texas.
+
+The analysis uses straight-line distance between county centers and trial sites. Future work includes road-based travel-time estimates, county-boundary maps, rurality measures, statistical significance testing, and multivariable modeling.

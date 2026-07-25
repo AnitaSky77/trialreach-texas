@@ -24,7 +24,12 @@ response = requests.get(
 )
 
 response.raise_for_status()
-data = response.json()
+
+print("Status:", response.status_code)
+print("URL:", response.url)
+print("Response:", response.text[:500])
+
+census_data = response.json()
 
 if "error" in data:
     raise RuntimeError(data["error"])

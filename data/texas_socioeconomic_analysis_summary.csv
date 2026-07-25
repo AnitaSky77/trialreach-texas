@@ -1,0 +1,4 @@
+group,county_count,median_household_income,mean_poverty_rate,mean_households_without_vehicle_rate,median_distance_to_open_site
+All counties,253,65115.00,14.93,5.06,46.60
+Counties with open trial sites,31,71938.00,14.33,5.19,6.60
+Counties without open trial sites,222,63428.50,15.01,5.04,51.95
